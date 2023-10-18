@@ -1,14 +1,18 @@
-import AppBar from "@/components/AppBar"
+import AppBar from "@/components/AppBar";
+
+import "./global.css"
 
 export default function RootLayout({
-  children,
+    children,
 }: {
-  children: React.ReactNode
+    children: React.ReactNode;
 }) {
-  return (
-    <html lang="pt-BR">
-      <AppBar />
-      <body>{children}</body>
-    </html>
-  )
+    return (
+        <html lang="pt-BR">
+            <body>
+                <AppBar />
+                {children}
+            </body>
+        </html>
+    );
 }

@@ -1,45 +1,134 @@
-import * as React from "react";
-import MUIAppBar from "@mui/material/AppBar";
-import Box from "@mui/material/Box";
-import Toolbar from "@mui/material/Toolbar";
-import Typography from "@mui/material/Typography";
-import Button from "@mui/material/Button";
-import IconButton from "@mui/material/IconButton";
-import MenuIcon from "@mui/icons-material/Menu";
+"use client";
 
+import * as React from "react";
+import AppBar from "@mui/material/AppBar";
+import Box from "@mui/material/Box";
+import IconButton from "@mui/material/IconButton";
+import Typography from "@mui/material/Typography";
+import Menu from "@mui/material/Menu";
+import MenuIcon from "@mui/icons-material/Menu";
+import Container from "@mui/material/Container";
+import Button from "@mui/material/Button";
+import MenuItem from "@mui/material/MenuItem";
 import Link from "next/link";
 
-export default function AppBar() {
+const pages = ["andressa", "romario", "vinicius", "vitoria", "grupo"];
+
+function ResponsiveAppBar() {
+    const [anchorElNav, setAnchorElNav] = React.useState<null | HTMLElement>(
+        null
+    );
+
+    const handleOpenNavMenu = (event: React.MouseEvent<HTMLElement>) => {
+        setAnchorElNav(event.currentTarget);
+    };
+
+    const handleCloseNavMenu = () => {
+        setAnchorElNav(null);
+    };
+
     return (
-        <Box sx={{ flexGrow: 1 }}>
-            <MUIAppBar position="static">
-                <Toolbar>
+        <AppBar position="static">
+            <Container
+                maxWidth="xl"
+                sx={{
+                    display: "flex",
+                    justifyContent: "space-between",
+                    alignItems: "center",
+                }}
+            >
+                <Typography
+                    variant="h6"
+                    noWrap
+                    sx={{
+                        display: { xs: "none", md: "flex" },
+                        fontFamily: "monospace",
+                        fontWeight: 700,
+                        color: "inherit",
+                        textDecoration: "none",
+                    }}
+                >
+                    SocializaEduca
+                </Typography>
+
+                <Box sx={{ flexGrow: 1, display: { xs: "flex", md: "none" } }}>
                     <IconButton
                         size="large"
-                        edge="start"
-                        color="inherit"
-                        aria-label="menu"
-                        sx={{ mr: 2 }}
+                        aria-label="account of current user"
+                        aria-controls="menu-appbar"
+                        aria-haspopup="true"
+                        onClick={handleOpenNavMenu}
                     >
-                        <MenuIcon />
+                        <MenuIcon sx={{ color: "white" }}/>
                     </IconButton>
-                    <Typography
-                        variant="h6"
-                        component="div"
-                        sx={{ flexGrow: 1 }}
+                    <Menu
+                        id="menu-appbar"
+                        anchorEl={anchorElNav}
+                        anchorOrigin={{
+                            vertical: "bottom",
+                            horizontal: "left",
+                        }}
+                        keepMounted
+                        transformOrigin={{
+                            vertical: "top",
+                            horizontal: "left",
+                        }}
+                        open={Boolean(anchorElNav)}
+                        onClose={handleCloseNavMenu}
+                        sx={{
+                            display: { xs: "block", md: "none" },
+                        }}
                     >
-                        SocializaEduca
-                    </Typography>
-                    <Button sx={{ color: "white" }}>
-                        <Link
-                            href="/grupo"
-                            style={{ color: "inherit", textDecoration: "none" }}
+                        {pages.map((page) => (
+                            <MenuItem key={page} onClick={handleCloseNavMenu}>
+                                <Link
+                                    href={`/${page}`}
+                                    style={{
+                                        color: "inherit",
+                                        textDecoration: "none",
+                                        textTransform: "uppercase"
+                                    }}
+                                >
+                                    {page}
+                                </Link>
+                            </MenuItem>
+                        ))}
+                    </Menu>
+                </Box>
+                <Typography
+                    variant="h5"
+                    noWrap
+                    sx={{
+                        display: { xs: "flex", md: "none" },
+                        flexGrow: 1,
+                        fontFamily: "monospace",
+                        fontWeight: 700,
+                        color: "inherit",
+                    }}
+                >
+                    SocializaEduca
+                </Typography>
+                <Box sx={{ display: { xs: "none", md: "flex" } }}>
+                    {pages.map((page) => (
+                        <Button
+                            key={page}
+                            sx={{ my: 2, color: "white", display: "block" }}
                         >
-                            Grupo
-                        </Link>
-                    </Button>
-                </Toolbar>
-            </MUIAppBar>
-        </Box>
+                            <Link
+                                href={`/${page}`}
+                                style={{
+                                    color: "inherit",
+                                    textDecoration: "none",
+                                    textTransform: "uppercase"
+                                }}
+                            >
+                                {page}
+                            </Link>
+                        </Button>
+                    ))}
+                </Box>
+            </Container>
+        </AppBar>
     );
 }
+export default ResponsiveAppBar;
