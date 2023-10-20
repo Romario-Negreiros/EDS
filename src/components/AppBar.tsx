@@ -12,7 +12,7 @@ import Button from "@mui/material/Button";
 import MenuItem from "@mui/material/MenuItem";
 import Link from "next/link";
 
-const pages = ["andressa", "romario", "vinicius", "vitoria", "grupo"];
+const pages = ["início", "andressa", "romario", "vinicius", "vanessa", "grupo"];
 
 function ResponsiveAppBar() {
     const [anchorElNav, setAnchorElNav] = React.useState<null | HTMLElement>(
@@ -89,7 +89,7 @@ function ResponsiveAppBar() {
                                         textTransform: "uppercase"
                                     }}
                                 >
-                                    {page}
+                                    {page == "início" ? "/" : page}
                                 </Link>
                             </MenuItem>
                         ))}
@@ -115,7 +115,7 @@ function ResponsiveAppBar() {
                             sx={{ my: 2, color: "white", display: "block" }}
                         >
                             <Link
-                                href={`/${page}`}
+                                href={`/${page == "início" ? "/" : page}`}
                                 style={{
                                     color: "inherit",
                                     textDecoration: "none",

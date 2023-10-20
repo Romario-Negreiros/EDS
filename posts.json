@@ -1,0 +1,93 @@
+{
+    "andressa": [],
+    "romario": [
+        {
+            "id": 1,
+            "title": "Identidade Geográfica",
+            "paragraphs": [
+                {
+                    "txt": "Durante toda a minha vida, nunca passei por grandes mudanças na questão geográfica. Eu nasci em São Bernardo, mas cresci e vivi a minha vida toda morando em Santo André, mudança de cidade nunca foi algo cogitado na minha família. No entanto, nós moramos em alguns lugares diferentes dentro da cidade, quando eu nasci, meus pais moravam na casa da minha avó, no Jardim Cristiane, já que não conseguiam pagar aluguel. Tempos depois, passamos a morar de aluguel em outra residência no mesmo bairro, por dois dias, meus pais logo mudaram de ideia por conta da vizinha. Só aos meus 11 anos que meus pais se mudaram em definitivo, para onde moro até hoje, no Jardim Alvorada."
+                },
+                {
+                    "txt": "Meus pais vieram de lugares diferentes, a família da minha mãe é de Pernambuco, ela inclusive nasceu lá, e depois por conta do emprego de seu pai, se mudaram pra Santo André quando ela ainda era pequena. Já a família do meu pai, nasceu e cresceu em Santo André, exceto pelo meu avô, que é descendente de espanhol e inclusive, possui nacionalidade espanhola."
+                },
+                {
+                    "txt": "A minha familia não difere muito em relação ao lugar em que vieram, apenas dois países fora o Brasil já foram origem de algum familiar meu, além do meu avô por parte de pai, descendente de espanhol, a minha bisavó por parte de mãe tem descendência italiana, até o nome dela lembra o país, Palmira Bonora (não é a palmirinha). Devem existir muitas outras origens que eu ainda desconheço na minha familia, mas o pouco que eu descobri até aqui já foi de muito aprendizado."
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "title": "A Magia dos Clubes de Troca",
+            "paragraphs": [
+                {
+                    "txt": "Um 'clube de troca' refere-se a um grupo de pessoas que se reúnem para trocar itens entre si, em vez de comprá-los ou vendê-los. Os tipos de itens que são trocados em um clube da troca podem variar amplamente, desde roupas e brinquedos até utensílios domésticos, livros e eletrônicos. A ideia básica é que os membros do clube trazem itens que não precisam mais e que estejam em boas condições, e então eles podem escolher itens dos outros membros em troca."
+                },
+                {
+                    "txt": "Esses clubes são comuns em comunidades locais e podem ter vários objetivos, como economizar dinheiro, reduzir o desperdício ou promover a sustentabilidade. O CEFURIA, Centro de Formação Urbano Rural Irmã Araújo, é um exemplo de instituição que promove clubes de troca, ele acompanha a Rede Pinhão de Clubes de Troca, composta por vários grupos de Curitiba e Região Metropolitana que se reúnem para trocar, produzir e se organizar em torno do trabalho e direitos sociais, articulando-se com os diversos movimentos sociais."
+                },
+                {
+                    "img": "http://cefuria.redelivre.org.br/files/2012/09/Clubes-de-Troca.jpg",
+                    "txt": "https://www.cefuria.org.br/clubes-de-troca/"
+                },
+                {
+                    "txt": "Os clubes de troca promovidos pelo CEFURA são espaços onde as pessoas se juntam para realizar trocas de produtos, serviços, valores e saberes entre si, de forma solidária. Eles também utilizam uma moeda social, chamada “Pinhão”, para realizar as trocas. Instituições como o CEFURIA ajudam a tirar o máximo de uma atividade tão benéfica como os clubes de troca. "
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "title": "Etnocentrismo, Estereótipos e Preconceitos",
+            "paragraphs": [
+                {
+                    "txt": "No nosso mundo diversificado, é essencial conversarmos sobre temas importantes como etnocentrismo, estereótipos e preconceitos. Esses conceitos afetam as nossas vidas mais do que percebemos e, muitas vezes, geram divisões e injustiças."
+                },
+                {
+                    "txt": "O etnocentrismo ocorre quando julgamos outras culturas a partir da nossa própria, como aconteceu durante a colonização, quando os europeus consideravam as culturas indígenas 'inferiores'. Isso corrobora com a ideia transmitida por Chimamanda Ngouzi, na sua TedTalk sobre “O perigo de uma só história”, que faz com que se criem os estereótipos, ideias simplificadas sobre grupos de pessoas, como por exemplo, a crença errônea de que todas as pessoas de um grupo étnico são preguiçosas. Isso pode levar a preconceitos, que se manifestam em discriminações graves, como o racismo, que afeta o acesso a oportunidades de emprego e justiça."
+                },
+                {
+                    "txt": "Confrontar e combater o etnocentrismo, os estereótipos e o preconceito é fundamental para criar uma sociedade mais inclusiva e justa. Ao reconhecer esses fenômenos em nossas próprias atitudes e comportamentos, podemos trabalhar para promover a compreensão, a empatia e a igualdade entre pessoas de todas as origens étnicas e culturais."
+                }
+            ]
+        },
+        {
+            "id": 4,
+            "title": "A Transformação das Empresas com as Mudanças nas Relações de Gênero e Sexualidade",
+            "paragraphs": [
+                {
+                    "txt": "Nos últimos anos, as relações de gênero e a sexualidade têm desempenhado um papel cada vez mais importante nas empresas. As organizações estão percebendo que promover a diversidade e a inclusão não é apenas uma questão de responsabilidade social, mas também uma estratégia de negócios inteligente. Empresas que reconhecem e respeitam a diversidade de gênero e sexualidade estão colhendo benefícios significativos."
+                },
+                {
+                    "txt": "Um exemplo de uma empresa que adotou políticas inclusivas relacionadas às relações de gênero e sexualidade é a Microsoft. A Microsoft tem sido ativa na promoção da diversidade e inclusão em seu local de trabalho. Ela implementou políticas de igualdade de gênero, ofereceu benefícios para funcionários LGBT+ e trabalhou para criar um ambiente de trabalho inclusivo."
+                },
+                {
+                    "img": "https://1.bp.blogspot.com/-MUMG5GG5OBY/YZs2zImSGcI/AAAAAAAAsG8/st22KRute30wUa5sN3Iu_Cu4LUm8Bj_mgCLcBGAsYHQ/s0/microsoft_women_scholarship_recipients.jpg",
+                    "txt": "https://www.grantsforwomen.org/2021/11/microsoft-scholarship-program-women-pursuing-stem-careers.html"
+                },
+                {
+                    "txt": "A Microsoft também lançou iniciativas como o programa 'Women at Microsoft' (Mulheres na Microsoft) para apoiar o desenvolvimento de carreira das mulheres dentro da empresa e o programa 'Microsoft Pride' (Orgulho Microsoft) para apoiar funcionários LGBT+."
+                },
+                {
+                    "txt": "Além disso, empresas que reconhecem a importância das relações de gênero também estão vendo impactos positivos em seus resultados financeiros. Isso ressalta a necessidade de eliminar barreiras de gênero e promover a igualdade no local de trabalho como uma estratégia de sucesso empresarial. Portanto, as mudanças nas relações de gênero e sexualidade estão remodelando a maneira como as empresas operam e se posicionam no mercado."
+                }
+            ]
+        },
+        {
+            "id": 5,
+            "title": "A Evolução das Configurações Familiares na Vida dos Famosos",
+            "paragraphs": [
+                {
+                    "txt": "As configurações familiares têm evoluído significativamente ao longo dos anos, inclusive na vida de muitas celebridades. Famosos de diversas áreas têm se manifestado e compartilhado suas experiências com arranjos familiares que divergem das tradições mais convencionais. Isso não apenas destaca a crescente aceitação da diversidade familiar, mas também ajuda a quebrar estigmas e promover a compreensão."
+                },
+                {
+                    "txt": "Um exemplo é a cantora e atriz Janelle Monáe, que é abertamente declarada pansexual e tem falado sobre como isso influenciou sua compreensão das relações e da família. Outro exemplo é o ator Neil Patrick Harris e seu marido, David Burtka, que têm filhos por meio de barriga de aluguel e demonstram que o amor e a família não têm uma única definição."
+                },
+                {
+                    "txt": "Outro exemplo notável é a atriz Angelina Jolie, uma mãe solteira que adotou filhos de diferentes partes do mundo. Além disso, a cantora Sheryl Crow também tem expressado alegria e realização em ser mãe solteira. A importância desses exemplos de celebridades que compartilham suas configurações familiares diversificadas está no impacto que eles têm na sociedade. Ao ver figuras públicas que são respeitadas e admiradas abraçando a diversidade familiar, as pessoas são incentivadas a repensar suas próprias concepções e preconceitos."
+                }
+            ]
+        }
+    ],
+    "vinicius": [],
+    "vanessa": []
+}

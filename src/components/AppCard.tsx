@@ -22,7 +22,7 @@ export default function AppCard({
     disableSecondLink,
 }: Props) {
     return (
-        <Card>
+        <Card sx={{ minHeight: "100%", display: "flex", flexDirection: "column", justifyContent: "space-between" }}>
             <CardContent>
                 <Typography gutterBottom variant="h5" component="div">
                     {title}
@@ -39,7 +39,7 @@ export default function AppCard({
                 </Button>
                 {!disableSecondLink && (
                     <Button size="small">
-                        <Link href={`/${author.toLowerCase()}`}>Mais de</Link>
+                        <Link href={`/${author.toLowerCase()}`}>Mais de {author}</Link>
                     </Button>
                 )}
             </CardActions>
