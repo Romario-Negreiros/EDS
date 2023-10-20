@@ -34,15 +34,22 @@ export function generateStaticParams() {
 }
 
 // export function getPost(author: Authors, postId: number) {
-    // return { ...posts[author][postId], author };
+// return { ...posts[author][postId], author };
 // }
 
 export default function Post({ params: { author, postId } }: Props) {
-    const post = { ...posts[author][+postId - 1], author };;
+    const post = { ...posts[author][+postId - 1], author };
 
     return (
         <Box sx={{ padding: 2 }}>
-            <Paper elevation={4} sx={{ width: "fit-content", padding: "20px", margin: "auto" }}>
+            <Paper
+                elevation={4}
+                sx={{
+                    width: "fit-content",
+                    padding: { xs: 0, md: 5 },
+                    margin: "auto",
+                }}
+            >
                 <Typography
                     variant="h4"
                     component="h1"
@@ -62,13 +69,11 @@ export default function Post({ params: { author, postId } }: Props) {
                     Autor:{" "}
                     {post.author.charAt(0).toUpperCase() + post.author.slice(1)}
                 </Typography>
-                <Grid
-                    container
-                    spacing={2}
-                    sx={{ margin: "auto", maxWidth: "600px" }}
+                <Box
+                    sx={{ margin: "auto", maxWidth: "600px", display: "flex", flexDirection: "column", gap: "10px", padding: { xs: "10px", md: "15px" } }}
                 >
                     {post.paragraphs.map((p, i) => (
-                        <Grid item xs={12} key={i}>
+                        <Box key={i} sx={{ width: "100%" }}>
                             {p.img ? (
                                 <Box sx={{ textAlign: "center" }}>
                                     <Box
@@ -76,12 +81,13 @@ export default function Post({ params: { author, postId } }: Props) {
                                             position: "relative",
                                             width: "100%",
                                             height: "300px",
+                                            bgcolor: "red"
                                         }}
                                     >
                                         <Image
                                             src={p.img}
                                             fill
-                                            style={{ objectFit: "contain" }}
+                                            style={{ objectFit: "cover" }}
                                             alt="Ilustração"
                                         />
                                     </Box>
@@ -92,14 +98,16 @@ export default function Post({ params: { author, postId } }: Props) {
                             ) : (
                                 <Typography
                                     variant="body2"
-                                    sx={{ textIndent: "10px" }}
+                                    sx={{
+                                        textIndent: "10px",
+                                    }}
                                 >
                                     {p.txt}
                                 </Typography>
                             )}
-                        </Grid>
+                        </Box>
                     ))}
-                </Grid>
+                </Box>
             </Paper>
         </Box>
     );

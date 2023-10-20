@@ -82,14 +82,14 @@ function ResponsiveAppBar() {
                         {pages.map((page) => (
                             <MenuItem key={page} onClick={handleCloseNavMenu}>
                                 <Link
-                                    href={`/${page}`}
+                                    href={`/${page == "início" ? "" : page}`}
                                     style={{
                                         color: "inherit",
                                         textDecoration: "none",
                                         textTransform: "uppercase"
                                     }}
                                 >
-                                    {page == "início" ? "/" : page}
+                                    {page}
                                 </Link>
                             </MenuItem>
                         ))}
@@ -115,7 +115,7 @@ function ResponsiveAppBar() {
                             sx={{ my: 2, color: "white", display: "block" }}
                         >
                             <Link
-                                href={`/${page == "início" ? "/" : page}`}
+                                href={`/${page == "início" ? "" : page}`}
                                 style={{
                                     color: "inherit",
                                     textDecoration: "none",
