@@ -33,12 +33,12 @@ export function generateStaticParams() {
     return paths;
 }
 
-export function getPost(author: Authors, postId: number) {
-    return { ...posts[author][postId], author };
-}
+// export function getPost(author: Authors, postId: number) {
+    // return { ...posts[author][postId], author };
+// }
 
 export default function Post({ params: { author, postId } }: Props) {
-    const post = getPost(author, +postId);
+    const post = { ...posts[author][+postId - 1], author };;
 
     return (
         <Box sx={{ padding: 2 }}>

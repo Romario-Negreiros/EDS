@@ -3,7 +3,7 @@ import Box from "@mui/material/Box";
 import Grid from "@mui/material/Grid";
 import Typography from "@mui/material/Typography";
 
-import posts from "../../../posts.json";
+import json from "../../../posts.json";
 
 type Authors = "andressa" | "romario" | "vinicius" | "vanessa";
 
@@ -30,12 +30,12 @@ export async function generateStaticParams() {
     ];
 }
 
-export function getAutorPosts(author: Authors) {
-    return posts[author];
-}
+// export function getAuthorPosts(author: Authors) {
+    // return posts[author];
+// }
 
 export default function Author({ params: { author } }: Props) {
-    const posts = getAutorPosts(author);
+    const posts = json[author];
 
     return (
         <Box sx={{ padding: 2 }}>
