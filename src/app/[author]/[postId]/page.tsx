@@ -70,12 +70,12 @@ export default function Post({ params: { author, postId } }: Props) {
                     {post.paragraphs.map((p, i) => (
                         <Grid item xs={12} key={i}>
                             {p.img ? (
-                                <Box>
+                                <Box sx={{ textAlign: "center" }}>
                                     <Box
                                         sx={{
                                             position: "relative",
                                             width: "100%",
-                                            height: "auto",
+                                            height: "300px",
                                         }}
                                     >
                                         <Image
