@@ -5,6 +5,7 @@ import Paper from "@mui/material/Paper";
 import Image from "next/image";
 
 import posts from "../../../../posts.json";
+import Link from "next/link";
 
 type Authors = "andressa" | "romario" | "vinicius" | "vanessa";
 
@@ -18,6 +19,22 @@ interface Props {
 interface Path {
     author: Authors;
     postId: string;
+}
+
+interface Post {
+    id: number;
+    author: string;
+    title: string;
+    paragraphs: {
+        title?: string;
+        img?: string;
+        link?: {
+            url: string;
+            txt: string;
+        };
+        txt: string;
+        txt2?: string;
+    }[];
 }
 
 export function generateStaticParams() {
@@ -38,7 +55,7 @@ export function generateStaticParams() {
 // }
 
 export default function Post({ params: { author, postId } }: Props) {
-    const post = { ...posts[author][+postId - 1], author };
+    const post = { ...posts[author][+postId - 1], author } as Post;
 
     return (
         <Box sx={{ padding: 2 }}>
@@ -70,7 +87,14 @@ export default function Post({ params: { author, postId } }: Props) {
                     {post.author.charAt(0).toUpperCase() + post.author.slice(1)}
                 </Typography>
                 <Box
-                    sx={{ margin: "auto", maxWidth: "600px", display: "flex", flexDirection: "column", gap: "10px", padding: { xs: "10px", md: "15px" } }}
+                    sx={{
+                        margin: "auto",
+                        maxWidth: "600px",
+                        display: "flex",
+                        flexDirection: "column",
+                        gap: "10px",
+                        padding: { xs: "10px", md: "15px" },
+                    }}
                 >
                     {post.paragraphs.map((p, i) => (
                         <Box key={i} sx={{ width: "100%" }}>
@@ -81,7 +105,7 @@ export default function Post({ params: { author, postId } }: Props) {
                                             position: "relative",
                                             width: "100%",
                                             height: "300px",
-                                            bgcolor: "red"
+                                            bgcolor: "red",
                                         }}
                                     >
                                         <Image
@@ -96,14 +120,34 @@ export default function Post({ params: { author, postId } }: Props) {
                                     </Typography>
                                 </Box>
                             ) : (
-                                <Typography
-                                    variant="body2"
-                                    sx={{
-                                        textIndent: "10px",
-                                    }}
-                                >
-                                    {p.txt}
-                                </Typography>
+                                <Box>
+                                    {p.title && (
+                                        <Typography variant="h6">
+                                            {p.title}
+                                        </Typography>
+                                    )}
+                                    {p.link ? (
+                                        <>
+                                            <Typography
+                                                variant="body2"
+                                                sx={{ textIndent: "10px" }}
+                                            >
+                                                {p.txt}
+                                                <Link href={p.link.url} target="_blank">{p.link.txt}</Link>
+                                                {p.txt2}
+                                            </Typography>
+                                        </>
+                                    ) : (
+                                        <Typography
+                                            variant="body2"
+                                            sx={{
+                                                textIndent: "10px",
+                                            }}
+                                        >
+                                            {p.txt}
+                                        </Typography>
+                                    )}
+                                </Box>
                             )}
                         </Box>
                     ))}
