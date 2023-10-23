@@ -88,6 +88,82 @@
             ]
         }
     ],
-    "vinicius": [],
+    "vinicius": [
+        {
+            "id": 1,
+            "title": "Sociedades, culturas, diversidades",
+            "paragraphs": [
+                {
+                    "txt": "Essa foi a primeira aula da disciplina de EDS (Estrutura e Dinâmica Social) que começou em uma sexta-feira dia 22/09/2023. A professora Andrea Paula dos Santos Oliveira Kamensky, apresentou a disciplina e contou um pouco de sua história para nós e pediu para fazermos o mesmo, então aqui estou eu."
+                },
+                {
+                    "txt": "Meu nome é Vinícius Perez da Silva e nasci, cresci e ainda vivo na cidade de Santo André no ABC paulista, mas antes de falar sobre a minha história, preciso falar um pouco sobre a minha família; primeiramente por parte de mãe de nome Ediléia Perez da Silva."
+                },
+                {
+                    "txt": "Minha avó é descendente de indígenas e italianos, seu nome é Maria Amâncio Perez e é natural de Cambé, no Paraná, mas viveu boa parte da sua vida na cidade de Atalaia e Maringá, onde conheceu meu avô, José Barbosa Perez, descendente de espanhóis. Quando minha avó se casou com meu avô teve duas filhas no Paraná e depois vieram para Santo André - SP onde tiveram sua terceira filha (minha mãe) de nome Ediléia Barbosa Perez, minha mãe se casou com meu pai dia 12 de setembro de 1998, mudando seu nome para Ediléia Perez da Silva e eu nasci dia 11 de outubro de 2000."
+                },
+                {
+                    "txt": "Para continuar minha história, preciso contar um pouco sobre o meu pai de nome Sérgio Ramos da Silva, nascido em São Bernardo do Campo, mas viveu boa parte da sua vida no Mato-Grosso na cidade de Jaciara, porém retornou para São Bernardo e começou a trabalhar em Santo André, onde conheceu minha mãe, ele é descendente de espanhóis, indígenas e portugueses. Infelizmente tenho menos detalhes sobre sua família, tendo em consideração que sua mãe (minha avó), infelizmente veio a falecer quando ele tinha 6 anos e seu pai (meu avô) não era muito aberto para esse tipo de conversa."
+                },
+                {
+                    "txt": "Voltando para a minha história, minha família sempre foi religiosa e frequentam semanalmente a igreja evangélica de denominação Congregação Cristã no Brasil (daqui para frente me referirei à essa instituição por CCB), sempre me levaram nos templos desde criança, o que me influenciou a continuar e frequento semanalmente até os dias de hoje, inclusive sou violinista em sua orquestra desde 2017."
+                },
+                {
+                    "txt": "Quando fiz 2 anos, minha família me colocou em uma creche onde fiquei até os 6 anos de idade, não tenho muitas lembranças de lá, mas eu lembro que eu gostava muito, Após isso eu entrei no ensino fundamental I na Escola Estadual Reverendo Simão Salém, onde fiquei até a 4ª série no ano de 2010, lembro que sempre fazíamos excursões por lugares notórios do Estado de São Paulo, como por exemplo a Sala São Paulo, eu adorava esses passeios e essa única visita, mudou meu gosto musical para sempre, lembro também que visitamos o  Sabina Escola Parque do Conhecimento."
+                },
+                {
+                    "txt": "No ano de 2011 entrei na Escola Estadual Professora Cynira Pires dos Santos onde fiquei até o anos de 2017, nessa escola conheci bons amigos que mantenho até hoje, meu melhor amigo chamado Miguel Xavier, conheci aqui, em 2012, vivemos bons momentos, visitando um a casa do outro e de vez em quando, fazíamos alguns passeios pelos shoppings, exposições, cinemas, restaurantes e parques, infelizmente, hoje em dia, ele mora em Minas Gerais e estuda na UFMG, então não conseguimos sair mais, mas ainda conversamos todos os dias pelas parties do PlayStation, nessa mesma escola, conheci também uma boa amiga também em 2012 chamada Daniella Nakamura, também fazia os passeios junto conosco e hoje em dia joga com a gente também, também tenho vários outros amigos que fiz nessa escola e os mantenho até hoje."
+                },
+                {
+                    "txt": "Em 2018 eu entrei na Escola Preparatória da UFABC e foi meu primeiro contato com a Universidade, estudei muito para passar no ENEM e consegui, fazendo minha matrícula na UFABC em 2019, quando comecei meus estudos e permaneço até hoje."
+                },
+                {
+                    "txt": "Em 2023 eu entrei no Programa de Educação Tutorial (PET) da UFABC  onde comecei a verdadeiramente desenrolar minha vida acadêmica e pude fazer minha Iniciação Científica. Infelizmente, devido ao sistema estranho da UFABC, não fiz muitos amigos, e os poucos que tenho, fiz devido PET."
+                },
+                {
+                    "title": "Voltando para o presente",
+                    "txt": "Agora vamos voltar para a aula do dia 22/09/2023, a professora passou um vídeo sobre a Chimamanda, uma escritora nigeriana que fez sucesso e estudou nos Estados Unidos, ela conta sobre como os americanos e outros povos ocidentais enxergam os países da África como inferiores e incivilizados, inclusive, muitas vezes pensam que o continente africano é um país só. Ela menciona como o ocidente acha que a cultura africana é inferior à cultura européia/americana, estereótipo totalmente equivocado, inclusive, para provar isso, colocarei aqui um link de uma música de um artista descendente de africanos, para mim, é uma das melhores músicas que já ouvi: ",
+                    "txt2": ". Ela conta que em sua infância, ela só lia livros de escritores ocidentais, e achava que histórias não podiam ser sobre coisas que ela pudesse se identificar, isso mudou com o tempo, depois de seus estudos na Nigéria e nos Estados Unidos.",
+                    "link": {
+                        "url": "https://www.youtube.com/watch?v=XH6IT_tsSUI",
+                        "txt": "Christopher Tin: Live at Cadogan Hall - Waloyo Yamoni"
+                    }
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "title": "O clube de trocas",
+            "paragraphs": [
+                {
+                    "txt": "Já na segunda aula de EDS, quarta-feira dia 27/09/2023, a professora nos surpreendeu com um clube de trocas, ela iniciou a aula pedindo para que a gente levasse algum objeto que quiséssemos trocar, e pegar algum outro que estava lá."
+                },
+                {
+                    "txt": "Um clube de trocas é uma comunidade onde as pessoas se reúnem para trocar bens, serviços ou informações sem usar dinheiro. Esses clubes são frequentemente criados com o objetivo de promover a partilha e a economia colaborativa."
+                },
+                {
+                    "txt": "Eu levei uma caneta que estava quase no fim, caneta essa que realizei as provas da disciplina de bases matemáticas e tirei conceito “A”, então ela deve ter algum valor, nem que seja só para mim, nesse mesmo clube eu peguei um peixinho de papel, que quando você coloca na mãe começa a se mexer, não sei qual o princípio físico por trás desse peixinho, mas é muito interessante."
+                },
+                {
+                    "txt": "O objetivo dessa prática era nos mostrar os diferentes objetos que pessoas de uma mesma turma podem carregar consigo, e como alguns deles podem ser até simples, mas terem uma história intrigante por trás."
+                },
+                {
+                    "txt": "Recentemente, no meio militar aconteceu algo parecido com um clube de trocas, por assim dizer, o Brasil quer trocar com a Suécia os aviões cargueiros da Embraer de modelo KC-390 por caças Gripen, já que ambas aeronaves têm o mesmo valor comercial, link da matéria: ",
+                    "txt2": ". Interessante que esse fato tenha acontecido tão perto do nosso clube de trocas improvisado, a matéria é do dia 27 de setembro também.",
+                    "link": {
+                        "url": "https://www1.folha.uol.com.br/poder/2023/09/brasil-agora-quer-50-cacas-gripen-e-acordo-da-embraer-com-a-suecia.shtml",
+                        "txt": "Brasil agora quer 50 caças Gripen e acordo da Embraer com Suécia"
+                    }
+                },
+                {
+                    "title": "Cultura, interculturalidade, diversidade, alteridade, diferença, desigualdades, estratificação social/classes",
+                    "txt": "Tema central da aula deste dia, o clube de trocas mostrou como em um mesmo ambiente podemos ter uma pluralidade de culturas muito grande, inclusive podemos notar isso até pelos materiais que algumas pessoas usam para acompanhar as aulas, a maioria das pessoas usam um caderno ou folhas de fichário, mas tem alguns que utilizam coisas mais modernas como notebooks e tablets."
+                },
+                {
+                    "txt": "Quando entrei na UFABC, tinha muita diversidade de pessoas, tinha muitos pretos/pardos tinha muitos pobres assim como brancos e ricos, porém com o passar do tempo, conforme eu avanço nas disciplinas da faculdade, noto que cada vez mais as turmas ficam com mais pessoas brancas e ricas, pois muitas das pessoas pretas/pardas e pobres, acabam por desistir, pois a vida acadêmica demanda muito tempo e muitas pessoas nessas condições sociais, precisam trabalhar e este trabalho, na maioria das vezes consome tempo demais, e essas pessoas não conseguem tempo para estudar ou fazer as tarefas necessárias para tirar bons conceitos nas disciplinas e por conta disso, acabam desistindo dessa vida, então notamos que a universidade até permite a entrada de pessoas nessas condições, porém não faz muito para que essas pessoas não sejam excluídas com o passar dos anos e isso precisa mudar urgentemente!"
+                }
+            ]
+        }
+    ],
     "vanessa": []
 }
