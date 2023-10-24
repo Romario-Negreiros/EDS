@@ -8,15 +8,15 @@ import json from "../../posts.json";
 function mixPosts() {
     const posts = [];
 
-    for (let i = 0; i < 5; i++) {
+    for (let i = 0; i < 6; i++) {
         // posts.push({ ...json["andressa"][i], author: "andressa" });
-        posts.push({ ...json["romario"][i], author: "romario" });
-        const viniPost = json["vinicius"][i] as any;
+        posts.push({ ...json["romario"].posts[i], author: "romario" });
+        const viniPost = json["vinicius"].posts[i] as any;
         if (viniPost) {
             viniPost["author"] = "vinicius";
             posts.push(viniPost);
         }
-        // posts.push({ ...json["vanessa"][i], author: "vanessa" });
+        posts.push({ ...json["vanessa"].posts[i], author: "vanessa" });
     }
 
     return posts;

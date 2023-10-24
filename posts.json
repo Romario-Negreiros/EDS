@@ -1,169 +1,318 @@
 {
-    "andressa": [],
-    "romario": [
-        {
-            "id": 1,
-            "title": "Identidade Geográfica",
-            "paragraphs": [
-                {
-                    "txt": "Durante toda a minha vida, nunca passei por grandes mudanças na questão geográfica. Eu nasci em São Bernardo, mas cresci e vivi a minha vida toda morando em Santo André, mudança de cidade nunca foi algo cogitado na minha família. No entanto, nós moramos em alguns lugares diferentes dentro da cidade, quando eu nasci, meus pais moravam na casa da minha avó, no Jardim Cristiane, já que não conseguiam pagar aluguel. Tempos depois, passamos a morar de aluguel em outra residência no mesmo bairro, por dois dias, meus pais logo mudaram de ideia por conta da vizinha. Só aos meus 11 anos que meus pais se mudaram em definitivo, para onde moro até hoje, no Jardim Alvorada."
-                },
-                {
-                    "txt": "Meus pais vieram de lugares diferentes, a família da minha mãe é de Pernambuco, ela inclusive nasceu lá, e depois por conta do emprego de seu pai, se mudaram pra Santo André quando ela ainda era pequena. Já a família do meu pai, nasceu e cresceu em Santo André, exceto pelo meu avô, que é descendente de espanhol e inclusive, possui nacionalidade espanhola."
-                },
-                {
-                    "txt": "A minha familia não difere muito em relação ao lugar em que vieram, apenas dois países fora o Brasil já foram origem de algum familiar meu, além do meu avô por parte de pai, descendente de espanhol, a minha bisavó por parte de mãe tem descendência italiana, até o nome dela lembra o país, Palmira Bonora (não é a palmirinha). Devem existir muitas outras origens que eu ainda desconheço na minha familia, mas o pouco que eu descobri até aqui já foi de muito aprendizado."
-                }
-            ]
-        },
-        {
-            "id": 2,
-            "title": "A Magia dos Clubes de Troca",
-            "paragraphs": [
-                {
-                    "txt": "Um 'clube de troca' refere-se a um grupo de pessoas que se reúnem para trocar itens entre si, em vez de comprá-los ou vendê-los. Os tipos de itens que são trocados em um clube da troca podem variar amplamente, desde roupas e brinquedos até utensílios domésticos, livros e eletrônicos. A ideia básica é que os membros do clube trazem itens que não precisam mais e que estejam em boas condições, e então eles podem escolher itens dos outros membros em troca."
-                },
-                {
-                    "txt": "Esses clubes são comuns em comunidades locais e podem ter vários objetivos, como economizar dinheiro, reduzir o desperdício ou promover a sustentabilidade. O CEFURIA, Centro de Formação Urbano Rural Irmã Araújo, é um exemplo de instituição que promove clubes de troca, ele acompanha a Rede Pinhão de Clubes de Troca, composta por vários grupos de Curitiba e Região Metropolitana que se reúnem para trocar, produzir e se organizar em torno do trabalho e direitos sociais, articulando-se com os diversos movimentos sociais."
-                },
-                {
-                    "img": "http://cefuria.redelivre.org.br/files/2012/09/Clubes-de-Troca.jpg",
-                    "txt": "https://www.cefuria.org.br/clubes-de-troca/"
-                },
-                {
-                    "txt": "Os clubes de troca promovidos pelo CEFURA são espaços onde as pessoas se juntam para realizar trocas de produtos, serviços, valores e saberes entre si, de forma solidária. Eles também utilizam uma moeda social, chamada “Pinhão”, para realizar as trocas. Instituições como o CEFURIA ajudam a tirar o máximo de uma atividade tão benéfica como os clubes de troca. "
-                }
-            ]
-        },
-        {
-            "id": 3,
-            "title": "Etnocentrismo, Estereótipos e Preconceitos",
-            "paragraphs": [
-                {
-                    "txt": "No nosso mundo diversificado, é essencial conversarmos sobre temas importantes como etnocentrismo, estereótipos e preconceitos. Esses conceitos afetam as nossas vidas mais do que percebemos e, muitas vezes, geram divisões e injustiças."
-                },
-                {
-                    "txt": "O etnocentrismo ocorre quando julgamos outras culturas a partir da nossa própria, como aconteceu durante a colonização, quando os europeus consideravam as culturas indígenas 'inferiores'. Isso corrobora com a ideia transmitida por Chimamanda Ngouzi, na sua TedTalk sobre “O perigo de uma só história”, que faz com que se criem os estereótipos, ideias simplificadas sobre grupos de pessoas, como por exemplo, a crença errônea de que todas as pessoas de um grupo étnico são preguiçosas. Isso pode levar a preconceitos, que se manifestam em discriminações graves, como o racismo, que afeta o acesso a oportunidades de emprego e justiça."
-                },
-                {
-                    "txt": "Confrontar e combater o etnocentrismo, os estereótipos e o preconceito é fundamental para criar uma sociedade mais inclusiva e justa. Ao reconhecer esses fenômenos em nossas próprias atitudes e comportamentos, podemos trabalhar para promover a compreensão, a empatia e a igualdade entre pessoas de todas as origens étnicas e culturais."
-                }
-            ]
-        },
-        {
-            "id": 4,
-            "title": "A Transformação das Empresas com as Mudanças nas Relações de Gênero e Sexualidade",
-            "paragraphs": [
-                {
-                    "txt": "Nos últimos anos, as relações de gênero e a sexualidade têm desempenhado um papel cada vez mais importante nas empresas. As organizações estão percebendo que promover a diversidade e a inclusão não é apenas uma questão de responsabilidade social, mas também uma estratégia de negócios inteligente. Empresas que reconhecem e respeitam a diversidade de gênero e sexualidade estão colhendo benefícios significativos."
-                },
-                {
-                    "txt": "Um exemplo de uma empresa que adotou políticas inclusivas relacionadas às relações de gênero e sexualidade é a Microsoft. A Microsoft tem sido ativa na promoção da diversidade e inclusão em seu local de trabalho. Ela implementou políticas de igualdade de gênero, ofereceu benefícios para funcionários LGBT+ e trabalhou para criar um ambiente de trabalho inclusivo."
-                },
-                {
-                    "img": "https://1.bp.blogspot.com/-MUMG5GG5OBY/YZs2zImSGcI/AAAAAAAAsG8/st22KRute30wUa5sN3Iu_Cu4LUm8Bj_mgCLcBGAsYHQ/s0/microsoft_women_scholarship_recipients.jpg",
-                    "txt": "https://www.grantsforwomen.org/2021/11/microsoft-scholarship-program-women-pursuing-stem-careers.html"
-                },
-                {
-                    "txt": "A Microsoft também lançou iniciativas como o programa 'Women at Microsoft' (Mulheres na Microsoft) para apoiar o desenvolvimento de carreira das mulheres dentro da empresa e o programa 'Microsoft Pride' (Orgulho Microsoft) para apoiar funcionários LGBT+."
-                },
-                {
-                    "txt": "Além disso, empresas que reconhecem a importância das relações de gênero também estão vendo impactos positivos em seus resultados financeiros. Isso ressalta a necessidade de eliminar barreiras de gênero e promover a igualdade no local de trabalho como uma estratégia de sucesso empresarial. Portanto, as mudanças nas relações de gênero e sexualidade estão remodelando a maneira como as empresas operam e se posicionam no mercado."
-                }
-            ]
-        },
-        {
-            "id": 5,
-            "title": "A Evolução das Configurações Familiares na Vida dos Famosos",
-            "paragraphs": [
-                {
-                    "txt": "As configurações familiares têm evoluído significativamente ao longo dos anos, inclusive na vida de muitas celebridades. Famosos de diversas áreas têm se manifestado e compartilhado suas experiências com arranjos familiares que divergem das tradições mais convencionais. Isso não apenas destaca a crescente aceitação da diversidade familiar, mas também ajuda a quebrar estigmas e promover a compreensão."
-                },
-                {
-                    "txt": "Um exemplo é a cantora e atriz Janelle Monáe, que é abertamente declarada pansexual e tem falado sobre como isso influenciou sua compreensão das relações e da família. Outro exemplo é o ator Neil Patrick Harris e seu marido, David Burtka, que têm filhos por meio de barriga de aluguel e demonstram que o amor e a família não têm uma única definição."
-                },
-                {
-                    "txt": "Outro exemplo notável é a atriz Angelina Jolie, uma mãe solteira que adotou filhos de diferentes partes do mundo. Além disso, a cantora Sheryl Crow também tem expressado alegria e realização em ser mãe solteira. A importância desses exemplos de celebridades que compartilham suas configurações familiares diversificadas está no impacto que eles têm na sociedade. Ao ver figuras públicas que são respeitadas e admiradas abraçando a diversidade familiar, as pessoas são incentivadas a repensar suas próprias concepções e preconceitos."
-                }
-            ]
-        }
-    ],
-    "vinicius": [
-        {
-            "id": 1,
-            "title": "Sociedades, culturas, diversidades",
-            "paragraphs": [
-                {
-                    "txt": "Essa foi a primeira aula da disciplina de EDS (Estrutura e Dinâmica Social) que começou em uma sexta-feira dia 22/09/2023. A professora Andrea Paula dos Santos Oliveira Kamensky, apresentou a disciplina e contou um pouco de sua história para nós e pediu para fazermos o mesmo, então aqui estou eu."
-                },
-                {
-                    "txt": "Meu nome é Vinícius Perez da Silva e nasci, cresci e ainda vivo na cidade de Santo André no ABC paulista, mas antes de falar sobre a minha história, preciso falar um pouco sobre a minha família; primeiramente por parte de mãe de nome Ediléia Perez da Silva."
-                },
-                {
-                    "txt": "Minha avó é descendente de indígenas e italianos, seu nome é Maria Amâncio Perez e é natural de Cambé, no Paraná, mas viveu boa parte da sua vida na cidade de Atalaia e Maringá, onde conheceu meu avô, José Barbosa Perez, descendente de espanhóis. Quando minha avó se casou com meu avô teve duas filhas no Paraná e depois vieram para Santo André - SP onde tiveram sua terceira filha (minha mãe) de nome Ediléia Barbosa Perez, minha mãe se casou com meu pai dia 12 de setembro de 1998, mudando seu nome para Ediléia Perez da Silva e eu nasci dia 11 de outubro de 2000."
-                },
-                {
-                    "txt": "Para continuar minha história, preciso contar um pouco sobre o meu pai de nome Sérgio Ramos da Silva, nascido em São Bernardo do Campo, mas viveu boa parte da sua vida no Mato-Grosso na cidade de Jaciara, porém retornou para São Bernardo e começou a trabalhar em Santo André, onde conheceu minha mãe, ele é descendente de espanhóis, indígenas e portugueses. Infelizmente tenho menos detalhes sobre sua família, tendo em consideração que sua mãe (minha avó), infelizmente veio a falecer quando ele tinha 6 anos e seu pai (meu avô) não era muito aberto para esse tipo de conversa."
-                },
-                {
-                    "txt": "Voltando para a minha história, minha família sempre foi religiosa e frequentam semanalmente a igreja evangélica de denominação Congregação Cristã no Brasil (daqui para frente me referirei à essa instituição por CCB), sempre me levaram nos templos desde criança, o que me influenciou a continuar e frequento semanalmente até os dias de hoje, inclusive sou violinista em sua orquestra desde 2017."
-                },
-                {
-                    "txt": "Quando fiz 2 anos, minha família me colocou em uma creche onde fiquei até os 6 anos de idade, não tenho muitas lembranças de lá, mas eu lembro que eu gostava muito, Após isso eu entrei no ensino fundamental I na Escola Estadual Reverendo Simão Salém, onde fiquei até a 4ª série no ano de 2010, lembro que sempre fazíamos excursões por lugares notórios do Estado de São Paulo, como por exemplo a Sala São Paulo, eu adorava esses passeios e essa única visita, mudou meu gosto musical para sempre, lembro também que visitamos o  Sabina Escola Parque do Conhecimento."
-                },
-                {
-                    "txt": "No ano de 2011 entrei na Escola Estadual Professora Cynira Pires dos Santos onde fiquei até o anos de 2017, nessa escola conheci bons amigos que mantenho até hoje, meu melhor amigo chamado Miguel Xavier, conheci aqui, em 2012, vivemos bons momentos, visitando um a casa do outro e de vez em quando, fazíamos alguns passeios pelos shoppings, exposições, cinemas, restaurantes e parques, infelizmente, hoje em dia, ele mora em Minas Gerais e estuda na UFMG, então não conseguimos sair mais, mas ainda conversamos todos os dias pelas parties do PlayStation, nessa mesma escola, conheci também uma boa amiga também em 2012 chamada Daniella Nakamura, também fazia os passeios junto conosco e hoje em dia joga com a gente também, também tenho vários outros amigos que fiz nessa escola e os mantenho até hoje."
-                },
-                {
-                    "txt": "Em 2018 eu entrei na Escola Preparatória da UFABC e foi meu primeiro contato com a Universidade, estudei muito para passar no ENEM e consegui, fazendo minha matrícula na UFABC em 2019, quando comecei meus estudos e permaneço até hoje."
-                },
-                {
-                    "txt": "Em 2023 eu entrei no Programa de Educação Tutorial (PET) da UFABC  onde comecei a verdadeiramente desenrolar minha vida acadêmica e pude fazer minha Iniciação Científica. Infelizmente, devido ao sistema estranho da UFABC, não fiz muitos amigos, e os poucos que tenho, fiz devido PET."
-                },
-                {
-                    "title": "Voltando para o presente",
-                    "txt": "Agora vamos voltar para a aula do dia 22/09/2023, a professora passou um vídeo sobre a Chimamanda, uma escritora nigeriana que fez sucesso e estudou nos Estados Unidos, ela conta sobre como os americanos e outros povos ocidentais enxergam os países da África como inferiores e incivilizados, inclusive, muitas vezes pensam que o continente africano é um país só. Ela menciona como o ocidente acha que a cultura africana é inferior à cultura européia/americana, estereótipo totalmente equivocado, inclusive, para provar isso, colocarei aqui um link de uma música de um artista descendente de africanos, para mim, é uma das melhores músicas que já ouvi: ",
-                    "txt2": ". Ela conta que em sua infância, ela só lia livros de escritores ocidentais, e achava que histórias não podiam ser sobre coisas que ela pudesse se identificar, isso mudou com o tempo, depois de seus estudos na Nigéria e nos Estados Unidos.",
-                    "link": {
-                        "url": "https://www.youtube.com/watch?v=XH6IT_tsSUI",
-                        "txt": "Christopher Tin: Live at Cadogan Hall - Waloyo Yamoni"
+    "andressa": {
+        "fullName": "Andressa Carvalho",
+        "posts": []
+    },
+    "romario": {
+        "fullName": "Romario Negreiros Baldarenas Silva",
+        "posts": [
+            {
+                "id": 1,
+                "title": "Identidade Geográfica",
+                "paragraphs": [
+                    {
+                        "txt": "Durante toda a minha vida, nunca passei por grandes mudanças na questão geográfica. Eu nasci em São Bernardo, mas cresci e vivi a minha vida toda morando em Santo André, mudança de cidade nunca foi algo cogitado na minha família. No entanto, nós moramos em alguns lugares diferentes dentro da cidade, quando eu nasci, meus pais moravam na casa da minha avó, no Jardim Cristiane, já que não conseguiam pagar aluguel. Tempos depois, passamos a morar de aluguel em outra residência no mesmo bairro, por dois dias, meus pais logo mudaram de ideia por conta da vizinha. Só aos meus 11 anos que meus pais se mudaram em definitivo, para onde moro até hoje, no Jardim Alvorada."
+                    },
+                    {
+                        "txt": "Meus pais vieram de lugares diferentes, a família da minha mãe é de Pernambuco, ela inclusive nasceu lá, e depois por conta do emprego de seu pai, se mudaram pra Santo André quando ela ainda era pequena. Já a família do meu pai, nasceu e cresceu em Santo André, exceto pelo meu avô, que é descendente de espanhol e inclusive, possui nacionalidade espanhola."
+                    },
+                    {
+                        "txt": "A minha familia não difere muito em relação ao lugar em que vieram, apenas dois países fora o Brasil já foram origem de algum familiar meu, além do meu avô por parte de pai, descendente de espanhol, a minha bisavó por parte de mãe tem descendência italiana, até o nome dela lembra o país, Palmira Bonora (não é a palmirinha). Devem existir muitas outras origens que eu ainda desconheço na minha familia, mas o pouco que eu descobri até aqui já foi de muito aprendizado."
                     }
-                }
-            ]
-        },
-        {
-            "id": 2,
-            "title": "O clube de trocas",
-            "paragraphs": [
-                {
-                    "txt": "Já na segunda aula de EDS, quarta-feira dia 27/09/2023, a professora nos surpreendeu com um clube de trocas, ela iniciou a aula pedindo para que a gente levasse algum objeto que quiséssemos trocar, e pegar algum outro que estava lá."
-                },
-                {
-                    "txt": "Um clube de trocas é uma comunidade onde as pessoas se reúnem para trocar bens, serviços ou informações sem usar dinheiro. Esses clubes são frequentemente criados com o objetivo de promover a partilha e a economia colaborativa."
-                },
-                {
-                    "txt": "Eu levei uma caneta que estava quase no fim, caneta essa que realizei as provas da disciplina de bases matemáticas e tirei conceito “A”, então ela deve ter algum valor, nem que seja só para mim, nesse mesmo clube eu peguei um peixinho de papel, que quando você coloca na mãe começa a se mexer, não sei qual o princípio físico por trás desse peixinho, mas é muito interessante."
-                },
-                {
-                    "txt": "O objetivo dessa prática era nos mostrar os diferentes objetos que pessoas de uma mesma turma podem carregar consigo, e como alguns deles podem ser até simples, mas terem uma história intrigante por trás."
-                },
-                {
-                    "txt": "Recentemente, no meio militar aconteceu algo parecido com um clube de trocas, por assim dizer, o Brasil quer trocar com a Suécia os aviões cargueiros da Embraer de modelo KC-390 por caças Gripen, já que ambas aeronaves têm o mesmo valor comercial, link da matéria: ",
-                    "txt2": ". Interessante que esse fato tenha acontecido tão perto do nosso clube de trocas improvisado, a matéria é do dia 27 de setembro também.",
-                    "link": {
-                        "url": "https://www1.folha.uol.com.br/poder/2023/09/brasil-agora-quer-50-cacas-gripen-e-acordo-da-embraer-com-a-suecia.shtml",
-                        "txt": "Brasil agora quer 50 caças Gripen e acordo da Embraer com Suécia"
+                ]
+            },
+            {
+                "id": 2,
+                "title": "A Magia dos Clubes de Troca",
+                "paragraphs": [
+                    {
+                        "txt": "Um 'clube de troca' refere-se a um grupo de pessoas que se reúnem para trocar itens entre si, em vez de comprá-los ou vendê-los. Os tipos de itens que são trocados em um clube da troca podem variar amplamente, desde roupas e brinquedos até utensílios domésticos, livros e eletrônicos. A ideia básica é que os membros do clube trazem itens que não precisam mais e que estejam em boas condições, e então eles podem escolher itens dos outros membros em troca."
+                    },
+                    {
+                        "txt": "Esses clubes são comuns em comunidades locais e podem ter vários objetivos, como economizar dinheiro, reduzir o desperdício ou promover a sustentabilidade. O CEFURIA, Centro de Formação Urbano Rural Irmã Araújo, é um exemplo de instituição que promove clubes de troca, ele acompanha a Rede Pinhão de Clubes de Troca, composta por vários grupos de Curitiba e Região Metropolitana que se reúnem para trocar, produzir e se organizar em torno do trabalho e direitos sociais, articulando-se com os diversos movimentos sociais."
+                    },
+                    {
+                        "img": "http://cefuria.redelivre.org.br/files/2012/09/Clubes-de-Troca.jpg",
+                        "txt": "https://www.cefuria.org.br/clubes-de-troca/"
+                    },
+                    {
+                        "txt": "Os clubes de troca promovidos pelo CEFURA são espaços onde as pessoas se juntam para realizar trocas de produtos, serviços, valores e saberes entre si, de forma solidária. Eles também utilizam uma moeda social, chamada “Pinhão”, para realizar as trocas. Instituições como o CEFURIA ajudam a tirar o máximo de uma atividade tão benéfica como os clubes de troca. "
                     }
-                },
-                {
-                    "title": "Cultura, interculturalidade, diversidade, alteridade, diferença, desigualdades, estratificação social/classes",
-                    "txt": "Tema central da aula deste dia, o clube de trocas mostrou como em um mesmo ambiente podemos ter uma pluralidade de culturas muito grande, inclusive podemos notar isso até pelos materiais que algumas pessoas usam para acompanhar as aulas, a maioria das pessoas usam um caderno ou folhas de fichário, mas tem alguns que utilizam coisas mais modernas como notebooks e tablets."
-                },
-                {
-                    "txt": "Quando entrei na UFABC, tinha muita diversidade de pessoas, tinha muitos pretos/pardos tinha muitos pobres assim como brancos e ricos, porém com o passar do tempo, conforme eu avanço nas disciplinas da faculdade, noto que cada vez mais as turmas ficam com mais pessoas brancas e ricas, pois muitas das pessoas pretas/pardas e pobres, acabam por desistir, pois a vida acadêmica demanda muito tempo e muitas pessoas nessas condições sociais, precisam trabalhar e este trabalho, na maioria das vezes consome tempo demais, e essas pessoas não conseguem tempo para estudar ou fazer as tarefas necessárias para tirar bons conceitos nas disciplinas e por conta disso, acabam desistindo dessa vida, então notamos que a universidade até permite a entrada de pessoas nessas condições, porém não faz muito para que essas pessoas não sejam excluídas com o passar dos anos e isso precisa mudar urgentemente!"
-                }
-            ]
-        }
-    ],
-    "vanessa": []
+                ]
+            },
+            {
+                "id": 3,
+                "title": "Etnocentrismo, Estereótipos e Preconceitos",
+                "paragraphs": [
+                    {
+                        "txt": "No nosso mundo diversificado, é essencial conversarmos sobre temas importantes como etnocentrismo, estereótipos e preconceitos. Esses conceitos afetam as nossas vidas mais do que percebemos e, muitas vezes, geram divisões e injustiças."
+                    },
+                    {
+                        "txt": "O etnocentrismo ocorre quando julgamos outras culturas a partir da nossa própria, como aconteceu durante a colonização, quando os europeus consideravam as culturas indígenas 'inferiores'. Isso corrobora com a ideia transmitida por Chimamanda Ngouzi, na sua TedTalk sobre “O perigo de uma só história”, que faz com que se criem os estereótipos, ideias simplificadas sobre grupos de pessoas, como por exemplo, a crença errônea de que todas as pessoas de um grupo étnico são preguiçosas. Isso pode levar a preconceitos, que se manifestam em discriminações graves, como o racismo, que afeta o acesso a oportunidades de emprego e justiça."
+                    },
+                    {
+                        "txt": "Confrontar e combater o etnocentrismo, os estereótipos e o preconceito é fundamental para criar uma sociedade mais inclusiva e justa. Ao reconhecer esses fenômenos em nossas próprias atitudes e comportamentos, podemos trabalhar para promover a compreensão, a empatia e a igualdade entre pessoas de todas as origens étnicas e culturais."
+                    }
+                ]
+            },
+            {
+                "id": 4,
+                "title": "A Transformação das Empresas com as Mudanças nas Relações de Gênero e Sexualidade",
+                "paragraphs": [
+                    {
+                        "txt": "Nos últimos anos, as relações de gênero e a sexualidade têm desempenhado um papel cada vez mais importante nas empresas. As organizações estão percebendo que promover a diversidade e a inclusão não é apenas uma questão de responsabilidade social, mas também uma estratégia de negócios inteligente. Empresas que reconhecem e respeitam a diversidade de gênero e sexualidade estão colhendo benefícios significativos."
+                    },
+                    {
+                        "txt": "Um exemplo de uma empresa que adotou políticas inclusivas relacionadas às relações de gênero e sexualidade é a Microsoft. A Microsoft tem sido ativa na promoção da diversidade e inclusão em seu local de trabalho. Ela implementou políticas de igualdade de gênero, ofereceu benefícios para funcionários LGBT+ e trabalhou para criar um ambiente de trabalho inclusivo."
+                    },
+                    {
+                        "img": "https://1.bp.blogspot.com/-MUMG5GG5OBY/YZs2zImSGcI/AAAAAAAAsG8/st22KRute30wUa5sN3Iu_Cu4LUm8Bj_mgCLcBGAsYHQ/s0/microsoft_women_scholarship_recipients.jpg",
+                        "txt": "https://www.grantsforwomen.org/2021/11/microsoft-scholarship-program-women-pursuing-stem-careers.html"
+                    },
+                    {
+                        "txt": "A Microsoft também lançou iniciativas como o programa 'Women at Microsoft' (Mulheres na Microsoft) para apoiar o desenvolvimento de carreira das mulheres dentro da empresa e o programa 'Microsoft Pride' (Orgulho Microsoft) para apoiar funcionários LGBT+."
+                    },
+                    {
+                        "txt": "Além disso, empresas que reconhecem a importância das relações de gênero também estão vendo impactos positivos em seus resultados financeiros. Isso ressalta a necessidade de eliminar barreiras de gênero e promover a igualdade no local de trabalho como uma estratégia de sucesso empresarial. Portanto, as mudanças nas relações de gênero e sexualidade estão remodelando a maneira como as empresas operam e se posicionam no mercado."
+                    }
+                ]
+            },
+            {
+                "id": 5,
+                "title": "A Evolução das Configurações Familiares na Vida dos Famosos",
+                "paragraphs": [
+                    {
+                        "txt": "As configurações familiares têm evoluído significativamente ao longo dos anos, inclusive na vida de muitas celebridades. Famosos de diversas áreas têm se manifestado e compartilhado suas experiências com arranjos familiares que divergem das tradições mais convencionais. Isso não apenas destaca a crescente aceitação da diversidade familiar, mas também ajuda a quebrar estigmas e promover a compreensão."
+                    },
+                    {
+                        "txt": "Um exemplo é a cantora e atriz Janelle Monáe, que é abertamente declarada pansexual e tem falado sobre como isso influenciou sua compreensão das relações e da família. Outro exemplo é o ator Neil Patrick Harris e seu marido, David Burtka, que têm filhos por meio de barriga de aluguel e demonstram que o amor e a família não têm uma única definição."
+                    },
+                    {
+                        "txt": "Outro exemplo notável é a atriz Angelina Jolie, uma mãe solteira que adotou filhos de diferentes partes do mundo. Além disso, a cantora Sheryl Crow também tem expressado alegria e realização em ser mãe solteira. A importância desses exemplos de celebridades que compartilham suas configurações familiares diversificadas está no impacto que eles têm na sociedade. Ao ver figuras públicas que são respeitadas e admiradas abraçando a diversidade familiar, as pessoas são incentivadas a repensar suas próprias concepções e preconceitos."
+                    }
+                ]
+            },
+            {
+                "id": 6,
+                "title": "A Profunda Influência da Religião na Vida das Pessoas",
+                "paragraphs": [
+                    {
+                        "txt": "A religiosidade nunca foi algo presente na minha casa durante toda minha vida. Meus pais e eu acreditamos em um Deus, mas nunca tivemos contato com alguma religião, exceto pela minha mãe, que cresceu frequentando a igreja católica, porém acabou se afastando com o passar dos anos. A família do meu pai segue o mesmo ritmo, com ressalva ao meu tio, que é umbandista."
+                    },
+                    {
+                        "txt": "Apesar disso, é fácil reconhecer que A influência da religião é evidente em muitos aspectos da vida cotidiana, desde o modo como as pessoas se relacionam com suas famílias e comunidades até como tomam decisões morais e éticas. Uma celebridade que passou por uma transformação notável devido à religião é o rapper Kanye West. Após um período de desafios pessoais, West adotou o cristianismo de maneira mais profunda e começou a incorporar sua fé em sua música e estilo de vida. Sua conversão à religião teve um impacto significativo em sua carreira, levando-o a lançar álbuns gospel e promover mensagens de espiritualidade e redenção."
+                    },
+                    {
+                        "txt": "É uma força que pode oferecer apoio emocional, orientação e um senso de propósito, moldando as vidas de indivíduos de maneiras profundas e pessoais. Por meio de exemplos como o de Kanye West, podemos observar como a religião tem o poder de transformar vidas e inspirar mudanças significativas."
+                    }
+                ]
+            }
+        ]
+    },
+    "vinicius": {
+        "fullName": "Vinícius Perez da Silva",
+        "posts": [
+            {
+                "id": 1,
+                "title": "Sociedades, Culturas, Diversidades",
+                "paragraphs": [
+                    {
+                        "txt": "Essa foi a primeira aula da disciplina de EDS (Estrutura e Dinâmica Social) que começou em uma sexta-feira dia 22/09/2023. A professora Andrea Paula dos Santos Oliveira Kamensky, apresentou a disciplina e contou um pouco de sua história para nós e pediu para fazermos o mesmo, então aqui estou eu."
+                    },
+                    {
+                        "txt": "Meu nome é Vinícius Perez da Silva e nasci, cresci e ainda vivo na cidade de Santo André no ABC paulista, mas antes de falar sobre a minha história, preciso falar um pouco sobre a minha família; primeiramente por parte de mãe de nome Ediléia Perez da Silva."
+                    },
+                    {
+                        "txt": "Minha avó é descendente de indígenas e italianos, seu nome é Maria Amâncio Perez e é natural de Cambé, no Paraná, mas viveu boa parte da sua vida na cidade de Atalaia e Maringá, onde conheceu meu avô, José Barbosa Perez, descendente de espanhóis. Quando minha avó se casou com meu avô teve duas filhas no Paraná e depois vieram para Santo André - SP onde tiveram sua terceira filha (minha mãe) de nome Ediléia Barbosa Perez, minha mãe se casou com meu pai dia 12 de setembro de 1998, mudando seu nome para Ediléia Perez da Silva e eu nasci dia 11 de outubro de 2000."
+                    },
+                    {
+                        "txt": "Para continuar minha história, preciso contar um pouco sobre o meu pai de nome Sérgio Ramos da Silva, nascido em São Bernardo do Campo, mas viveu boa parte da sua vida no Mato-Grosso na cidade de Jaciara, porém retornou para São Bernardo e começou a trabalhar em Santo André, onde conheceu minha mãe, ele é descendente de espanhóis, indígenas e portugueses. Infelizmente tenho menos detalhes sobre sua família, tendo em consideração que sua mãe (minha avó), infelizmente veio a falecer quando ele tinha 6 anos e seu pai (meu avô) não era muito aberto para esse tipo de conversa."
+                    },
+                    {
+                        "txt": "Voltando para a minha história, minha família sempre foi religiosa e frequentam semanalmente a igreja evangélica de denominação Congregação Cristã no Brasil (daqui para frente me referirei à essa instituição por CCB), sempre me levaram nos templos desde criança, o que me influenciou a continuar e frequento semanalmente até os dias de hoje, inclusive sou violinista em sua orquestra desde 2017."
+                    },
+                    {
+                        "txt": "Quando fiz 2 anos, minha família me colocou em uma creche onde fiquei até os 6 anos de idade, não tenho muitas lembranças de lá, mas eu lembro que eu gostava muito, Após isso eu entrei no ensino fundamental I na Escola Estadual Reverendo Simão Salém, onde fiquei até a 4ª série no ano de 2010, lembro que sempre fazíamos excursões por lugares notórios do Estado de São Paulo, como por exemplo a Sala São Paulo, eu adorava esses passeios e essa única visita, mudou meu gosto musical para sempre, lembro também que visitamos o  Sabina Escola Parque do Conhecimento."
+                    },
+                    {
+                        "txt": "No ano de 2011 entrei na Escola Estadual Professora Cynira Pires dos Santos onde fiquei até o anos de 2017, nessa escola conheci bons amigos que mantenho até hoje, meu melhor amigo chamado Miguel Xavier, conheci aqui, em 2012, vivemos bons momentos, visitando um a casa do outro e de vez em quando, fazíamos alguns passeios pelos shoppings, exposições, cinemas, restaurantes e parques, infelizmente, hoje em dia, ele mora em Minas Gerais e estuda na UFMG, então não conseguimos sair mais, mas ainda conversamos todos os dias pelas parties do PlayStation, nessa mesma escola, conheci também uma boa amiga também em 2012 chamada Daniella Nakamura, também fazia os passeios junto conosco e hoje em dia joga com a gente também, também tenho vários outros amigos que fiz nessa escola e os mantenho até hoje."
+                    },
+                    {
+                        "txt": "Em 2018 eu entrei na Escola Preparatória da UFABC e foi meu primeiro contato com a Universidade, estudei muito para passar no ENEM e consegui, fazendo minha matrícula na UFABC em 2019, quando comecei meus estudos e permaneço até hoje."
+                    },
+                    {
+                        "txt": "Em 2023 eu entrei no Programa de Educação Tutorial (PET) da UFABC  onde comecei a verdadeiramente desenrolar minha vida acadêmica e pude fazer minha Iniciação Científica. Infelizmente, devido ao sistema estranho da UFABC, não fiz muitos amigos, e os poucos que tenho, fiz devido PET."
+                    },
+                    {
+                        "title": "Voltando para o presente",
+                        "txt": "Agora vamos voltar para a aula do dia 22/09/2023, a professora passou um vídeo sobre a Chimamanda, uma escritora nigeriana que fez sucesso e estudou nos Estados Unidos, ela conta sobre como os americanos e outros povos ocidentais enxergam os países da África como inferiores e incivilizados, inclusive, muitas vezes pensam que o continente africano é um país só. Ela menciona como o ocidente acha que a cultura africana é inferior à cultura européia/americana, estereótipo totalmente equivocado, inclusive, para provar isso, colocarei aqui um link de uma música de um artista descendente de africanos, para mim, é uma das melhores músicas que já ouvi: ",
+                        "txt2": ". Ela conta que em sua infância, ela só lia livros de escritores ocidentais, e achava que histórias não podiam ser sobre coisas que ela pudesse se identificar, isso mudou com o tempo, depois de seus estudos na Nigéria e nos Estados Unidos.",
+                        "link": {
+                            "url": "https://www.youtube.com/watch?v=XH6IT_tsSUI",
+                            "txt": "Christopher Tin: Live at Cadogan Hall - Waloyo Yamoni"
+                        }
+                    }
+                ]
+            },
+            {
+                "id": 2,
+                "title": "O Clube de Trocas",
+                "paragraphs": [
+                    {
+                        "txt": "Já na segunda aula de EDS, quarta-feira dia 27/09/2023, a professora nos surpreendeu com um clube de trocas, ela iniciou a aula pedindo para que a gente levasse algum objeto que quiséssemos trocar, e pegar algum outro que estava lá."
+                    },
+                    {
+                        "txt": "Um clube de trocas é uma comunidade onde as pessoas se reúnem para trocar bens, serviços ou informações sem usar dinheiro. Esses clubes são frequentemente criados com o objetivo de promover a partilha e a economia colaborativa."
+                    },
+                    {
+                        "txt": "Eu levei uma caneta que estava quase no fim, caneta essa que realizei as provas da disciplina de bases matemáticas e tirei conceito “A”, então ela deve ter algum valor, nem que seja só para mim, nesse mesmo clube eu peguei um peixinho de papel, que quando você coloca na mãe começa a se mexer, não sei qual o princípio físico por trás desse peixinho, mas é muito interessante."
+                    },
+                    {
+                        "txt": "O objetivo dessa prática era nos mostrar os diferentes objetos que pessoas de uma mesma turma podem carregar consigo, e como alguns deles podem ser até simples, mas terem uma história intrigante por trás."
+                    },
+                    {
+                        "txt": "Recentemente, no meio militar aconteceu algo parecido com um clube de trocas, por assim dizer, o Brasil quer trocar com a Suécia os aviões cargueiros da Embraer de modelo KC-390 por caças Gripen, já que ambas aeronaves têm o mesmo valor comercial, link da matéria: ",
+                        "txt2": ". Interessante que esse fato tenha acontecido tão perto do nosso clube de trocas improvisado, a matéria é do dia 27 de setembro também.",
+                        "link": {
+                            "url": "https://www1.folha.uol.com.br/poder/2023/09/brasil-agora-quer-50-cacas-gripen-e-acordo-da-embraer-com-a-suecia.shtml",
+                            "txt": "Brasil agora quer 50 caças Gripen e acordo da Embraer com Suécia"
+                        }
+                    },
+                    {
+                        "title": "Cultura, interculturalidade, diversidade, alteridade, diferença, desigualdades, estratificação social/classes",
+                        "txt": "Tema central da aula deste dia, o clube de trocas mostrou como em um mesmo ambiente podemos ter uma pluralidade de culturas muito grande, inclusive podemos notar isso até pelos materiais que algumas pessoas usam para acompanhar as aulas, a maioria das pessoas usam um caderno ou folhas de fichário, mas tem alguns que utilizam coisas mais modernas como notebooks e tablets."
+                    },
+                    {
+                        "txt": "Quando entrei na UFABC, tinha muita diversidade de pessoas, tinha muitos pretos/pardos tinha muitos pobres assim como brancos e ricos, porém com o passar do tempo, conforme eu avanço nas disciplinas da faculdade, noto que cada vez mais as turmas ficam com mais pessoas brancas e ricas, pois muitas das pessoas pretas/pardas e pobres, acabam por desistir, pois a vida acadêmica demanda muito tempo e muitas pessoas nessas condições sociais, precisam trabalhar e este trabalho, na maioria das vezes consome tempo demais, e essas pessoas não conseguem tempo para estudar ou fazer as tarefas necessárias para tirar bons conceitos nas disciplinas e por conta disso, acabam desistindo dessa vida, então notamos que a universidade até permite a entrada de pessoas nessas condições, porém não faz muito para que essas pessoas não sejam excluídas com o passar dos anos e isso precisa mudar urgentemente!"
+                    }
+                ]
+            }
+        ]
+    },
+    "vanessa": {
+        "fullName": "Vanessa Vitoria da Silva",
+        "posts": [
+            {
+                "id": 1,
+                "title": "Apresentação Pessoal",
+                "paragraphs": [
+                    {
+                        "txt": "Olá, meu nome é Vanessa, nasci no inverno de 2002 e cresci em um bairro periférico localizado na região metropolitana de São Paulo. Meus pais são nordestinos, então tive presente alguns aspectos desta região do país, através de algumas histórias que eles contavam e a culinária. Na minha casa sempre esteve a presença de diversos tipos de músicas, colocadas pelo meu pai. Por isso, hoje vejo uma influência disso nos meus gostos musicais, como gostar de flashbacks, por exemplo."
+                    },
+                    {
+                        "txt": "Nesse ambiente onde cresci, me deparei com situações difíceis. Testemunhei cenas de violência, relacionadas a questões como drogas, que são tristemente comuns em bairros como o meu. Porém, também presenciei momentos muito agradáveis, como quando era dia das crianças e as pessoas nesse lugar se juntavam em festas com brinquedos e doces. Assim, eu percebo como a resiliência e a capacidade adaptativa estão presentes em tantas pessoas."
+                    },
+                    {
+                        "txt": "Com isso, tento compactar um pouco sobre alguns pontos da minha vida nesta apresentação, pontos que fazem parte de quem sou agora."
+                    }
+                ]
+            },
+            {
+                "id": 2,
+                "title": "O Clube de Trocas",
+                "paragraphs": [
+                    {
+                        "txt": "Nessa aula sobre cultura, interculturalidade e diversidade, fomos apresentados a um exercício prático: o 'Clube de Trocas'. Embora eu tenha optado por não participar diretamente, a experiência proporcionou uma visão dos conceitos que permeiam nosso estudo."
+                    },
+                    {
+                        "txt": "Cultura, em sua essência, é o conjunto de valores, crenças, práticas e símbolos que definem um grupo social. O clube de trocas revelou como nossa cultura/história molda nossas preferências, hábitos e identidades, já que cada objeto levado à frente da sala representava algo único para seu proprietário. Um simples objeto podia ser algo especial para um, enquanto para outro era apenas um item comum."
+                    },
+                    {
+                        "txt": "A interculturalidade se manifestou à medida que os objetos trocados refletiam origens culturais diversas. Cada troca era um diálogo silencioso entre os diversos modos de vida, provando como a diversidade enriquece nossa vida cotidiana. A alteridade se destacou quando observei como as histórias por trás de cada objeto eram singulares. Cada troca era uma oportunidade de conhecer a perspectiva e a experiência de outra pessoa."
+                    },
+                    {
+                        "txt": "O  'Clube de Trocas' foi um microcosmo das complexidades da vida em sociedade. Demonstra como esses tópicos são intrinsecamente entrelaçados em nossas vidas. O exercício me proporcionou uma apreciação mais profunda e empática pela riqueza da diversidade cultural e pelas sutilezas das diferenças de cada um."
+                    }
+                ]
+            },
+            {
+                "id": 3,
+                "title": "Refletindo Sobre o que Sabemos",
+                "paragraphs": [
+                    {
+                        "txt": "Etnocentrismo, estereótipos e preconceitos são temas que, de certa forma, todos já nos deparamos na vida. Citando uma fala de Chimamanda Ngozi Adichie, na sua palestra de 2009 no Ted talk: 'É assim, pois, que se cria uma única história: mostre um povo como uma coisa, como somente uma coisa, repetidamente, e será o que eles se tornarão.''. Esta frase nos lembra da importância de não nos deixarmos levar unicamente pelo que achamos que sabemos de um certo povo ou cultura. Que muitas vezes, ao não refletirmos sobre aquilo que temos conhecimento sobre uma determinada coisa, podemos estar sendo levados por essa 'única história', e por consequência, eliminando uma série de suas singularidades."
+                    },
+                    {
+                        "txt": "O etnocentrismo, por exemplo, é a tendência de julgar outras culturas a partir da perspectiva da nossa própria cultura, podendo considerar a sua superior a outra. Isso nos impede de apreciar a riqueza e a diversidade que o mundo tem a oferecer. A desconstrução de estereótipos é igualmente vital, pois essas representações simplificadas podem prejudicar as pessoas, perpetuando preconceitos e limitando o entendimento mútuo."
+                    },
+                    {
+                        "txt": "Para combater esses desafios, é crucial manter a mente aberta, aprender com as histórias e experiências de outras culturas e, acima de tudo, lembrar que somos todos seres humanos únicos, com nossas próprias riquezas culturais e individualidades. Ao fazer isso, contribuímos para um mundo mais inclusivo e acolhedor, onde a diversidade é valorizada e celebrada."
+                    }
+                ]
+            },
+            {
+                "id": 4,
+                "title": "Relações de Gênero e Sexualidades: Reflexões Pessoais",
+                "paragraphs": [
+                    {
+                        "txt": "Quando esse tema foi abordado em sala, ele me fez pensar sobre as relações de gênero e sexualidades e como esses assuntos desempenham um papel vital em nossa sociedade que está em constante evolução. As discussões em sala de aula, combinadas com experiências pessoais e histórias compartilhadas por colegas, me fizeram perceber quão críticos são esses tópicos."
+                    },
+                    {
+                        "txt": "Ouvir relatos dos alunos que sofrem com comentários homofóbicos dentro de suas casas é doloroso e nos faz refletir sobre o longo caminho que ainda precisamos percorrer na construção de uma sociedade mais inclusiva e tolerante. A discriminação e o preconceito dentro de casa são lembranças que podem deixar cicatrizes profundas, tornando mais difícil o processo de aceitação de sua própria identidade."
+                    },
+                    {
+                        "txt": "Como dito acima, a sociedade está em constante evolução, tornando-se cada vez mais consciente da diversidade de experiências e identidades. No entanto, não podemos nos dar ao luxo de relaxar, pois ainda há muito trabalho a ser feito."
+                    },
+                    {
+                        "txt": "Um exemplo  dessa evolução é a forma como certas palavras não podem ser mais usadas. O uso de termos como 'afeminado' e 'homossexualismo' já não é aceitável, pois eles carregam uma conotação negativa e patologizante. Em vez disso, devemos adotar uma linguagem mais inclusiva, que respeita a dignidade e a individualidade das pessoas."
+                    },
+                    {
+                        "txt": "Ao abordar esse assunto, me veio em mente a série ",
+                        "link": {
+                            "url": "https://www.netflix.com/br/title/80197526",
+                            "txt": "'Sex Education'"
+                        },
+                        "txt2": ", que aborda de maneira sensível e envolvente questões relacionadas às relações de gênero e sexualidades. Esta série oferece uma visão envolvente e, por vezes, hilária das complexidades do crescimento, da sexualidade e das identidades de gênero na vida de adolescentes, contribuindo para uma conversa mais aberta e informada sobre esses tópicos."
+                    },
+                    {
+                        "txt": "Como participantes dessa sociedade, devemos ser aliados ativos na luta contra o preconceito, dentro e fora de casa, e lembrar que a mudança cultural é possível e necessária. À medida que a sociedade continua a se transformar, devemos estar dispostos a aprender e apoiar aqueles que lutam por igualdade e respeito."
+                    }
+                ]
+            },
+            {
+                "id": 5,
+                "title": "As Diversas Configurações Familiares",
+                "paragraphs": [
+                    {
+                        "txt": "Mesmo vindo de uma família tradicional, composta por pai, mãe e filhos, não era muito difícil para mim perceber ao meu redor que tinham pessoas com outras configurações familiares, pessoas que fugiam do modelo da 'família nuclear'."
+                    },
+                    {
+                        "txt": "Atualmente, é cada vez mais comum encontrarmos famílias onde os avós desempenham um papel fundamental na criação dos netos ou a mãe é a única responsável pela criação dos filhos, etc."
+                    },
+                    {
+                        "txt": "Um aspecto fundamental na construção de qualquer família, independentemente da sua configuração, é o vínculo afetivo. O amor e o carinho são a base que sustenta qualquer família. O afeto mútuo entre os membros é o que realmente define uma família e proporciona a sensação de pertencimento e segurança necessária para o desenvolvimento saudável dos indivíduos."
+                    },
+                    {
+                        "txt": "A série coreana ",
+                        "link": {
+                            "url": "https://www.netflix.com/br/title/81243992",
+                            "txt": "'Tudo bem não ser normal'"
+                        },
+                        "txt2": " nos presenteia com uma configuração familiar que foge completamente do que comumente é conhecido. Nela está uma família composta por dois irmãos, que sempre cuidam um do outro. A série também nos mostra como é “adicionado” um novo membro nesta família, e de como o carinho e os laços afetivos entre eles são constantes e fortes. O dorama, em uma conversa entre dois personagens, aborda de uma maneira amorosa e delicada que, para ser uma família, é preciso somente ter uma foto de todos juntos."
+                    },
+                    {
+                        "txt": "Assim, termino dizendo que a família moderna abraça uma ampla variedade de configurações, com um denominador comum sendo o amor e o afeto compartilhados entre seus membros."
+                    }
+                ]
+            },
+            {
+                "id": 6,
+                "title": "As Religiões",
+                "paragraphs": [
+                    {
+                        "txt": "Cresci em uma família que acredita no Deus Cristão, mas que não seguia nenhuma religião e também não frequentava nenhuma igreja. Até hoje eu não sou adepta de nenhuma religião."
+                    },
+                    {
+                        "txt": "Lendo os textos que foram abordados em sala, resolvi escrever sobre o Budismo. Eu já tenho um interesse pela cultura japonesa e sul coreana, por conta das produções que vejo, por isso a religião budista me chamou a atenção e terei foco nela nessa produção textual."
+                    },
+                    {
+                        "txt": "O Budismo, que, diferente do que eu pensava, é uma das religiões que não possuem deuses. Ela se originou dos ensinamentos de Siddhartha Gautama, conhecido como Buda, que era um príncipe hindu de um pequeno reino no sul do Nepal no século VI a.C. Buda ensinou que os seres humanos podem escapar do ciclo de reencarnação através da renúncia ao desejo. O caminho para a salvação envolve uma vida de autodisciplina e meditação, afastada das preocupações mundanas. O objetivo principal do Budismo é alcançar o Nirvana, que é a realização espiritual completa. Buda rejeitava os rituais hindus e a autoridade das castas. Similar ao Hinduísmo, o Budismo permite várias interpretações, incluindo a crença em divindades locais, e não insiste em uma ideia única. Atualmente, o Budismo exerce uma influência significativa em vários estados do Extremo Oriente, como Tailândia, Birmânia, Sri Lanka, China, Japão e Coreia."
+                    },
+                    {
+                        "txt": "Com essa atividade tive a oportunidade de saber mais sobre essa religião, coisas que eu não fazia ideia, como o fato de o Budismo não possuir um deus. Essa atividade também me ajudou a ter um aumento na minha visão sobre a diversidade de religiões existentes, algo que é muito importante saber, para que haja uma consciência melhor e mais respeito sobre as diversas crenças de diferentes povos pelo mundo."
+                    }
+                ]
+            }
+        ]
+    }
 }

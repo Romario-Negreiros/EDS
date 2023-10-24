@@ -36,15 +36,15 @@ export async function generateStaticParams() {
 // }
 
 export default function Author({ params: { author } }: Props) {
-    const posts = json[author];
+    const { fullName,  posts } = json[author];
 
-    if (!posts) {
+    if (!posts || !fullName) {
         return <Box sx={{ height: "calc(100vh - 68px)", display: "grid", placeItems: "center" }}><CircularProgress /></Box>
     } else {
         return (
             <Box sx={{ padding: 2 }}>
                 <Typography variant="h4" component="h1">
-                    {author.charAt(0).toUpperCase() + author.slice(1)}
+                    {fullName}
                 </Typography>
                 <Grid container spacing={2}>
                     {posts.map((post) => (

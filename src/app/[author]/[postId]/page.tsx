@@ -4,7 +4,7 @@ import Grid from "@mui/material/Grid";
 import Paper from "@mui/material/Paper";
 import Image from "next/image";
 
-import posts from "../../../../posts.json";
+import json from "../../../../posts.json";
 import Link from "next/link";
 
 type Authors = "andressa" | "romario" | "vinicius" | "vanessa";
@@ -40,12 +40,12 @@ interface Post {
 export function generateStaticParams() {
     const paths: Path[] = [];
 
-    // posts["andressa"].forEach(post => { paths.push({ author: "andressa", postId: post.id }) })
-    posts["romario"].forEach((post) => {
+    // json["andressa"].forEach(post => { paths.push({ author: "andressa", postId: post.id }) })
+    json["romario"].posts.forEach((post) => {
         paths.push({ author: "romario", postId: String(post.id) });
     });
-    // posts["vinicius"].forEach(post => { paths.push({ author: "vinicius", postId: post.id }) })
-    // posts["vanessa"].forEach(post => { paths.push({ author: "vanessa", postId: post.id }) })
+    json["vinicius"].posts.forEach(post => { paths.push({ author: "vinicius", postId: String(post.id) }) })
+    json["vanessa"].posts.forEach(post => { paths.push({ author: "vanessa", postId: String(post.id) }) })
 
     return paths;
 }
@@ -55,7 +55,7 @@ export function generateStaticParams() {
 // }
 
 export default function Post({ params: { author, postId } }: Props) {
-    const post = { ...posts[author][+postId - 1], author } as Post;
+    const post = { ...json[author].posts[+postId - 1], author: json[author].fullName } as Post;
 
     return (
         <Box sx={{ padding: 2 }}>
@@ -84,7 +84,7 @@ export default function Post({ params: { author, postId } }: Props) {
                     sx={{ textAlign: "center" }}
                 >
                     Autor:{" "}
-                    {post.author.charAt(0).toUpperCase() + post.author.slice(1)}
+                    {post.author}
                 </Typography>
                 <Box
                     sx={{
