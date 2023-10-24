@@ -56,7 +56,7 @@ export default function Author({ params: { author } }: Props) {
                                 previewContent={post.paragraphs[0].txt?.slice(
                                     0,
                                     150
-                                )}
+                                ) as string}
                                 disableSecondLink
                             />
                         </Grid>

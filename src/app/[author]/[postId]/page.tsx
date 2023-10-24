@@ -105,13 +105,12 @@ export default function Post({ params: { author, postId } }: Props) {
                                             position: "relative",
                                             width: "100%",
                                             height: "300px",
-                                            bgcolor: "red",
                                         }}
                                     >
                                         <Image
                                             src={p.img}
                                             fill
-                                            style={{ objectFit: "cover" }}
+                                            style={{ objectFit: "contain", margin: "auto" }}
                                             alt="Ilustração"
                                         />
                                     </Box>
