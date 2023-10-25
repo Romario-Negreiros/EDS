@@ -53,7 +53,10 @@ export default function Author({ params: { author } }: Props) {
                                 id={post.id}
                                 author={author}
                                 title={post.title}
-                                previewContent={post.paragraphs[0].txt?.slice(
+                                previewContent={post.paragraphs[0].txt ? post.paragraphs[0].txt.slice(
+                                    0,
+                                    150
+                                ) as string : post.paragraphs[1].txt?.slice(
                                     0,
                                     150
                                 ) as string}

@@ -65,6 +65,7 @@ export default function Post({ params: { author, postId } }: Props) {
                     width: "fit-content",
                     padding: { xs: 0, md: 5 },
                     margin: "auto",
+                    bgcolor: "#decf9e"
                 }}
             >
                 <Typography
@@ -104,9 +105,9 @@ export default function Post({ params: { author, postId } }: Props) {
                                         sx={{
                                             position: "relative",
                                             width: "100%",
-                                            height: "300px",
+                                            height: "350px"
                                         }}
-                                    >
+                                        >
                                         <Image
                                             src={p.img}
                                             fill

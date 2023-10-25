@@ -2,6 +2,7 @@ import AppCard from "@/components/AppCard";
 import Box from "@mui/material/Box";
 import Grid from "@mui/material/Grid";
 import CircularProgress from "@mui/material/CircularProgress";
+import Image from "next/image";
 
 import json from "../../posts.json";
 
@@ -39,8 +40,11 @@ export default function Home() {
         );
     } else {
         return (
-            <Box sx={{ padding: 2 }}>
-                <Grid container spacing={2}>
+            <Box>
+                <Box sx={{ width: "100%", height: "300px", position: "relative" }}>
+                    <Image src="/bgmain.jpg" alt="ilustração" fill style={{ objectFit: "cover" }} />
+                </Box>
+                <Grid container spacing={2} sx={{ padding: 2 }}>
                     {posts.map((post) => (
                         <Grid item xs={12} sm={6} md={4} key={post.id}>
                             <AppCard
