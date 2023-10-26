@@ -34,16 +34,31 @@ export async function generateStaticParams() {
 // export function getAuthorPosts(author: Authors) {
 // return posts[author];
 // }
+interface Post {
+    id: number;
+    author: string;
+    title: string;
+    paragraphs: {
+        title?: string;
+        img?: string;
+        link?: {
+            url: string;
+            txt: string;
+        };
+        txt: string;
+        txt2?: string;
+    }[];
+}
 
 export default function Author({ params: { author } }: Props) {
-    const { fullName,  posts } = json[author];
+    const { fullName,  posts } = json[author] as { fullName: string, posts: Post[] };
 
     if (!posts || !fullName) {
         return <Box sx={{ height: "calc(100vh - 68px)", display: "grid", placeItems: "center" }}><CircularProgress /></Box>
     } else {
         return (
             <Box sx={{ padding: 2 }}>
-                <Typography variant="h4" component="h1">
+                <Typography variant="h4" component="h1" sx={{ color: "#fff", mb: 2 }}>
                     {fullName}
                 </Typography>
                 <Grid container spacing={2}>
@@ -60,6 +75,7 @@ export default function Author({ params: { author } }: Props) {
                                     0,
                                     150
                                 ) as string}
+                                previewImage={post.paragraphs.find(p => p.img !== undefined)?.img}
                                 disableSecondLink
                             />
                         </Grid>

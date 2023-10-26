@@ -28,7 +28,7 @@ function ResponsiveAppBar() {
     };
 
     return (
-        <AppBar position="static">
+        <AppBar position="static" elevation={0} sx={{ bgcolor: "unset" }}>
             <Container
                 maxWidth="xl"
                 sx={{

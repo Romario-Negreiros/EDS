@@ -40,7 +40,7 @@ interface Post {
 export function generateStaticParams() {
     const paths: Path[] = [];
 
-    // json["andressa"].forEach(post => { paths.push({ author: "andressa", postId: post.id }) })
+    json["andressa"].posts.forEach(post => { paths.push({ author: "andressa", postId: String(post.id) }) })
     json["romario"].posts.forEach((post) => {
         paths.push({ author: "romario", postId: String(post.id) });
     });
@@ -64,8 +64,7 @@ export default function Post({ params: { author, postId } }: Props) {
                 sx={{
                     width: "fit-content",
                     padding: { xs: 0, md: 5 },
-                    margin: "auto",
-                    bgcolor: "#decf9e"
+                    margin: "auto"
                 }}
             >
                 <Typography
