@@ -83,7 +83,7 @@ export default function Post({ params: { author, postId } }: Props) {
                     component="p"
                     sx={{ textAlign: "center" }}
                 >
-                    Autor:{" "}
+                    Autor / autora:{" "}
                     {post.author}
                 </Typography>
                 <Box
