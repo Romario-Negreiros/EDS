@@ -287,6 +287,30 @@
                         "txt": "Sem dúvida alguma, os avanços na tecnologia proporcionaram facilidades e comodidades antes inimagináveis para a população. Contudo, os efeitos colaterais destes avanços são sentidos na classe trabalhadora, uma vez que com a tecnologia os substituindo, estes correm o risco de ficarem desempregados. O maior desafio da tecnologia atualmente na sociedade não é mais o seu avanço em si, mas sim como não deixar que este avanço seja benéfico para alguns, e prejudicial para muitos outros cidadãos."
                     }
                 ]
+            },
+            {
+                "id": 10,
+                "title": "Os Impactos do Aumento de Temperatura no Mundo Sobre a Sociedade",
+                "paragraphs": [
+                    {
+                        "txt": "O cenário climático global está passando por transformações notáveis, manifestadas por uma série de efeitos significativos que impactam comunidades e dinâmicas socioeconômicas."
+                    },
+                    {
+                        "txt": "Algumas das principais mudanças são notadas diariamente, como o aumento da temperatura devido ao aquecimento global, resultado das atividades humanas que liberam gases de efeito estufa na atmosfera, tem contribuído para um aumento notável nas temperaturas globais. Essa elevação térmica, embora possa parecer sutil, vem sendo fortemente sentida em todos os cantos do mundo nos últimos anos."
+                    },
+                    {
+                        "txt": "A variabilidade climática decorrente do aumento de temperatura impacta a produção agrícola e a segurança alimentar. Mudanças nos padrões de chuva, eventos climáticos extremos e aumento das temperaturas podem comprometer colheitas, afetando a disponibilidade de alimentos e elevando os preços. Isso representa uma ameaça para comunidades dependentes da agricultura."
+                    }
+                    {
+                        "txt": "Outro impacto a ser citado é o deslocamento de populações. Regiões costeiras estão particularmente vulneráveis ao aumento do nível do mar causado pelo derretimento do gelo polar. Isso pode levar ao deslocamento de comunidades inteiras, resultando em pressões sobre recursos e infraestruturas em áreas de destino. Além disso, eventos climáticos extremos, como tempestades e inundações, podem forçar deslocamentos temporários ou permanentes."
+                    },
+                    {
+                        "txt": "Setores econômicos sensíveis às condições climáticas, como turismo, agricultura e pesca, são impactados diretamente pelo aumento de temperatura. Eventos climáticos extremos podem resultar em perdas econômicas substanciais, o número de turistas dispostos a visitar o Rio de Janeiro, por exemplo, vai decair assim que os mesmos observarem as máximas de muitas vezes mais de 40°C de temperatura. Além disso, a necessidade de adaptação e reconstrução de infraestruturas após eventos climáticos intensos representa um ônus financeiro para estes setores."
+                    },
+                    {
+                        "txt": "Em meio a todos estes desafios, além da clara e óbvia necessidade de se realizar esforços globais para reduzir as emissões de gases de efeito estufa, a sociedade precisará se adaptar a estas mudanças como um todo, com o objetivo de minimizar qualquer perca ou dano que o aquecimento global possa causar, não só na parte econômica, mas também na nossa qualidade de vida."
+                    }
+                ]
             }
         ]
     },
