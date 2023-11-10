@@ -47,7 +47,7 @@ function mixPosts() {
     });
 
     posts.forEach((post, index) => {
-        if (index === 3 || index === 4 || index === 5) {
+        if (index === 3 || index === 4 || index === 6) {
             const [a] = posts.splice(index, 1);
             posts.unshift(a);
         }
