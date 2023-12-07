@@ -25,8 +25,11 @@ interface Post {
 function mixPosts() {
     const posts: any[] = [];
 
-    for (let i = 0; i < 6; i++) {
+    for (let i = 0; i < 10; i++) {
         posts.push({ ...json["romario"].posts[i], author: "romario" });
+    }
+
+    for (let i = 0; i < 6; i++) {
         const viniPost = json["vinicius"].posts[i] as any;
         if (viniPost) {
             viniPost["author"] = "vinicius";
@@ -44,7 +47,7 @@ function mixPosts() {
     });
 
     posts.forEach((post, index) => {
-        if (index === 3 || index === 4 || index == 5) {
+        if (index === 5 || index === 4 || index === 6 || index === 3) {
             const [a] = posts.splice(index, 1);
             posts.unshift(a);
         }
