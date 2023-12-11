@@ -25,19 +25,28 @@ interface Post {
 function mixPosts() {
     const posts: any[] = [];
 
-    for (let i = 0; i < 10; i++) {
-        posts.push({ ...json["romario"].posts[i], author: "romario" });
-    }
-
-    for (let i = 0; i < 6; i++) {
+    for (let i = 0; i < 12; i++) {
+        const euPost = json["romario"].posts[i] as any;
+        if (euPost) {
+            euPost["author"] = "romario";
+            posts.push(euPost);
+        }
         const viniPost = json["vinicius"].posts[i] as any;
         if (viniPost) {
             viniPost["author"] = "vinicius";
             posts.push(viniPost);
         }
-        posts.push({ ...json["vanessa"].posts[i], author: "vanessa" });
+        const vanessaPost = json["vanessa"].posts[i] as any;
+        if (vanessaPost) {
+            vanessaPost["author"] = "vanessa";
+            posts.push(vanessaPost);
+        }
+        const andressaPost = json["andressa"].posts[i] as any;
+        if (andressaPost) {
+            andressaPost["author"] = "andressa";
+            posts.push(andressaPost);
+        }
     }
-    posts.push({ ...json["andressa"].posts[0], author: "andressa" });
 
     posts.forEach((post, index) => {
         if (post.paragraphs.find((p: any) => p.img !== undefined)) {
