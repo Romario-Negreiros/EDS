@@ -570,6 +570,64 @@
                         "txt": "Este módulo chegou ao fim, e foi muito útil para percebermos como a estrutura e dinâmica social atual precisa ser revista, para que possamos evitar um colapso ambiental e mental da população, até pela questão da sobrevivência da espécie humana."
                     }
                 ]
+            },
+            {
+                "id": 8,
+                "title": "Democracia, Big Data, Uberização e Inteligência artificial",
+                "paragraphs": [
+                    {
+                        "txt": "Neste módulo em especial, ambas as aulas se conversam de uma maneira muito interessante, pois a democracia é constantemente ameaçada e deturpada por conta da Big Data e inteligência artificial, como vimos, no Brasil, os resultados das eleições de 2018 foram muito influenciados pela onda de fake news e de como os algoritmos das chamadas “Big Techs” influenciam na decisão da população na hora de escolher um candidato, e tem maior poder ainda nas pessoas indecisas ou que não tem uma ideologia política bem definida."
+                    },
+                    {
+                        "txt": "Uma das leituras recomendadas pela professora Andrea, foi sobre a sociedade de controle, um termo muito usado pelo filósofo Foucault que diz que um indivíduo não cansa de passar de um lugar fechado para outro, obedecendo às regras específicas desses lugares durante as diversas fases de sua vida, hoje em dia, podemos fazer analogias sobre a sociedade de controle com a Big Data armazenada pelas Big Techs, pois com tantos dados que essas empresas coletam de cada usuário, elas quase conseguem prever quais serão os comportamentos futuros de uma pessoa, e influenciá - las de tal maneira que estes indivíduos não percebam que foram influenciados, além disso, as Big Techs ainda possuem dados de praticamente todas as pessoas do mundo, então com certeza elas conseguem influenciar as decisões políticas do mundo inteiro, então a sociedade de controle alcançou um patamar inimaginável nos dias atuais."
+                    },
+                    {
+                        "txt": "Hoje em dia com o advento da inteligência artificial, estes algoritmos ficaram muito mais rápidos e precisos, inclusive, as fake news ganharam um novo patamar, visto que as inteligências artificiais generativas, conseguem produzir notícias e até vídeos com a voz e rosto de pessoas com alta credibilidade sem muito esforço, concedendo à qualquer pessoa mal intencionada a produzir uma notícia falsa indistinguível das verdadeiras."
+                    },
+                    {
+                        "txt": "Neste módulo, também foi apresentada a questão da uberização do trabalho, que é quando as pessoas não conseguem empregos formais, e acabam trabalhando por conta própria, geralmente como prestador de serviços para empresas de delivery e transporte como a Uber e o iFood, o problema dessas empresas, é que elas não garantem nenhum tipo de vínculo empregatício e nem pagam nenhum direito trabalhista, pois elas alegam que é apenas uma renda extra que os trabalhadores fazem por que querem, sendo que na maioria das vezes, esses serviços são a principal fonte de renda de diversas famílias, e este tipo de emprego gera um desgaste físico e emocional gigantesco, pois os trabalhadores trabalham na rua, sujeitos ao sol, chuva, vento, frio e calor, além da pressão imposta pelas empresas para que a entrega seja realizada o mais rápido possível."
+                    },
+                    {
+                        "txt": "Um exemplo bem didático da disparidade social causada pela uberização, é um vídeo onde, uma trabalhadora do escritório do iFood que é contratada como CLT e tem todos os direitos trabalhistas, mostra os escritório da empresa enquanto ao lado, tem outro vídeo passando ao mesmo tempo de um motoboy da mesma empresa, porém este não tem nenhum direito e mostra como é trabalhar na rua para as empresas de delivery.",
+                        "link": {
+                            "url": "https://www.youtube.com/watch?v=sIMTtvf7Im0",
+                            "txt": "Link do vídeo."
+                        }
+                    },
+                    {
+                        "txt": "Então, neste vídeo podemos notar claramente, como trabalhadores da mesma empresa, são tratados de forma completamente diferente, enquanto uma pessoa tem todos os direitos e garantias do Estado, outra tem de se submeter a regras estúpidas, salários baixos, intempéries do tempo, além de muitas vezes, violência policial."
+                    }
+                ]
+            },
+            {
+                "id": 9,
+                "title": "Antropoceno, mudanças climáticas e fim do mundo",
+                "paragraphs": [
+                    {
+                        "txt": "O antropoceno, nada mais é do que o nome dado à época dos homens (humanos), assim como o planeta passou por várias épocas como o pleistoceno, paleoceno e outras divisões geológicas como cretáceo e jurássico, mas óbviamente, a nomenclatura antropoceno, diz mais sobre questões sociais do que períodos geológicos propriamente ditos. O antropoceno é marcado por uma pauta muito importante, as mudanças climáticas."
+                    },
+                    {
+                        "txt": "Uma das se não a pauta mais importante do século, as mudanças climáticas e aquecimento global são urgentes e não podem deixar de ser abordadas em nenhuma conferência mundial de decisões sociais e econômicas; desde a revolução industrial, o ser humano vem emitindo gases do efeito estufa na atmosfera, estas emissões têm aumentado significativamente a cada ano e tem causado aumento da temperatura média do planeta. A discussão sobre as mudanças climáticas é tão urgente, que nem deveriam mais ser discussões, mas sim ações para mitigar o problema, considerando que estamos vivendo hoje, em 2023, eventos climáticos catastróficos que só deveriam ser vividos nos anos 2030 ou até 2040, ou seja, estamos mais perto de atingirmos o ponto de não retorno do que havíamos previsto, e isto pode acarretar no total colapso do equilíbrio ambiental."
+                    },
+                    {
+                        "txt": "Porém, muitas vezes as pautas ambientais são usadas de pretexto para prejudicar países e populações, geralmente para prevalecer os interesses dos países do Norte econômico em detrimento dos países do Sul econômico; por exemplo, um dos argumentos que os países do Sul econômico usam, é que os países desenvolvidos, usaram todos os tipos de tecnologias sujas, porém mais baratas para se desenvolver enquanto cobram que países em desenvolvimento, pensem em sustentabilidade, e não fazem nada para ajudar a situação, visto que fontes renováveis de energia, são caras e ineficientes."
+                    },
+                    {
+                        "txt": "Muitos países do Norte, se gabam de serem muito limpos e terem baixas emissões de carbono, enquanto colocam suas empresas de mineração e petróleo em países subdesenvolvidos, jogando a culpa das emissões de carbono nesses países, que nada mais são do que vítimas de um imperialismo predatório e que favorece uma minoria das pessoas do planeta; além de muitos líderes mundiais, na maior hipocrisia do mundo, vão para conferências climáticas em jatos particulares que poluem mais do que 100 veículos terrestres poluíram em toda sua vida útil."
+                    },
+                    {
+                        "txt": "Enquanto isso, o planeta pede socorro com temperaturas elevadíssimas, tempestades destrutivas, vida marinha perecendo, geleiras derretendo, climas cada vez mais extremos, rios secando e desertos inundando; enquanto o 1% da população mais rica emite mais carbono do que 65% da parcela mais pobre do planeta, esse 1% se diverte em seus iates e aviões sem se preocupar com o futuro do planeta, já que consideram que eles sempre terão comida, ar-condicionado e serventes para satisfazer seus egos que literalmente, não cabem neste planeta."
+                    },
+                    {
+                        "txt": "Devemos sim nos preocupar e realizar ações para mitigar os efeitos das mudanças climáticas, porém devemos ter um olhar crítico e discernir quando uma pessoa ou um grupo delas realmente estão preocupadas com o bem estar do meio ambiente, ou estão usando as pautas ambientais puramente para seus próprios interesses e práticas imperialistas."
+                    },
+                    {
+                        "link": {
+                            "url": "https://www.redebrasilatual.com.br/politica/desigualdade-1-dos-super-ricos-poluem-mais-que-67-da-populacao-global/#:~:text=Não%20à%20toa%2C%20relatório%20recente,podem%20ser%20um%20fator%20positivo",
+                            "txt": "Fonte"
+                        }
+                    }
+                ]
             }
         ]
     },
@@ -708,7 +766,7 @@
                         "txt": "Entrando no tema da aula 09, onde nos foi sugerido procurar sobre movimentos políticos, sociais, culturais, etc, eu passei a pesquisar por grupos que se envolvessem neste tipo de causa, e encontrei o Projeto Arrastão. Estabelecido em 1968, o Projeto Arrastão é uma entidade sem fins lucrativos dedicada ao acolhimento e apoio das famílias em situação de pobreza na região do Campo Limpo. Este compromisso com a promoção humana e desenvolvimento comunitário é efetuado em parceria com as famílias, resultando na implementação de programas abrangendo educação, cultura, geração de renda, desenvolvimento comunitário e melhoria da qualidade de vida."
                     },
                     {
-                        "txt": "Projetos como esse não apenas mudam histórias individuais, mas também transformam comunidades inteiras. Ao oferecer oportunidades e apoio, eles não apenas resgatam jovens em situações delicadas, mas também cultivam esperança e inspiram mudanças profundas nessas pessoas." 
+                        "txt": "Projetos como esse não apenas mudam histórias individuais, mas também transformam comunidades inteiras. Ao oferecer oportunidades e apoio, eles não apenas resgatam jovens em situações delicadas, mas também cultivam esperança e inspiram mudanças profundas nessas pessoas."
                     }
                 ]
             },
