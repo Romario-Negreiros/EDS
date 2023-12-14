@@ -32,6 +32,14 @@ interface Post {
             url: string;
             txt: string;
         };
+        link2?: {
+            url: string;
+            txt: string;
+        };
+        link3?: {
+            url: string;
+            txt: string;
+        };
         txt: string;
         txt2?: string;
     }[];
@@ -40,12 +48,18 @@ interface Post {
 export function generateStaticParams() {
     const paths: Path[] = [];
 
-    json["andressa"].posts.forEach(post => { paths.push({ author: "andressa", postId: String(post.id) }) })
+    json["andressa"].posts.forEach((post) => {
+        paths.push({ author: "andressa", postId: String(post.id) });
+    });
     json["romario"].posts.forEach((post) => {
         paths.push({ author: "romario", postId: String(post.id) });
     });
-    json["vinicius"].posts.forEach(post => { paths.push({ author: "vinicius", postId: String(post.id) }) })
-    json["vanessa"].posts.forEach(post => { paths.push({ author: "vanessa", postId: String(post.id) }) })
+    json["vinicius"].posts.forEach((post) => {
+        paths.push({ author: "vinicius", postId: String(post.id) });
+    });
+    json["vanessa"].posts.forEach((post) => {
+        paths.push({ author: "vanessa", postId: String(post.id) });
+    });
 
     return paths;
 }
@@ -55,7 +69,10 @@ export function generateStaticParams() {
 // }
 
 export default function Post({ params: { author, postId } }: Props) {
-    const post = { ...json[author].posts[+postId - 1], author: json[author].fullName } as Post;
+    const post = {
+        ...json[author].posts[+postId - 1],
+        author: json[author].fullName,
+    } as Post;
 
     return (
         <Box sx={{ padding: 2 }}>
@@ -64,7 +81,7 @@ export default function Post({ params: { author, postId } }: Props) {
                 sx={{
                     width: "fit-content",
                     padding: { xs: 0, md: 5 },
-                    margin: "auto"
+                    margin: "auto",
                 }}
             >
                 <Typography
@@ -83,8 +100,7 @@ export default function Post({ params: { author, postId } }: Props) {
                     component="p"
                     sx={{ textAlign: "center" }}
                 >
-                    Autor / autora:{" "}
-                    {post.author}
+                    Autor / autora: {post.author}
                 </Typography>
                 <Box
                     sx={{
@@ -104,13 +120,16 @@ export default function Post({ params: { author, postId } }: Props) {
                                         sx={{
                                             position: "relative",
                                             width: "100%",
-                                            height: "350px"
+                                            height: "350px",
                                         }}
-                                        >
+                                    >
                                         <Image
                                             src={p.img}
                                             fill
-                                            style={{ objectFit: "contain", margin: "auto" }}
+                                            style={{
+                                                objectFit: "contain",
+                                                margin: "auto",
+                                            }}
                                             alt="Ilustração"
                                         />
                                     </Box>
@@ -132,7 +151,31 @@ export default function Post({ params: { author, postId } }: Props) {
                                                 sx={{ textIndent: "10px" }}
                                             >
                                                 {p.txt}
-                                                <Link href={p.link.url} target="_blank">{p.link.txt}</Link>
+                                                <Link
+                                                    href={p.link.url}
+                                                    target="_blank"
+                                                >
+                                                    {p.link.txt}
+                                                </Link>
+                                                {p.link2 && (
+                                                    <>
+                                                        , o&nbsp;
+                                                        <Link
+                                                            href={p.link2.url}
+                                                            target="_blank"
+                                                        >
+                                                            {p.link2.txt}
+                                                        </Link> e, em escala um pouco menor, a&nbsp;
+                                                    </>
+                                                )}
+                                                {p.link3 && (
+                                                    <Link
+                                                        href={p.link3.url}
+                                                        target="_blank"
+                                                    >
+                                                        {p.link3.txt}
+                                                    </Link>
+                                                )}
                                                 {p.txt2}
                                             </Typography>
                                         </>
